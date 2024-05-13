@@ -1,362 +1,362 @@
-"","RANK","Conference","School","Arena.Name","Arena","Capacity","address","lat","long"
-"1",1,"ACC","Syracuse","JMA Wireless Dome ","JMA Wireless Dome ",35642,"JMA Wireless Dome ",43.03628365,-76.1363603170983
-"2",2,"ACC","Louisville","KFC Yum! Center ","KFC Yum! Center ",22090,"KFC Yum! Center ",38.25769635,-85.753859924394
-"3",3,"ACC","North Carolina","Dean E. Smith Center ","Dean E. Smith Center ",21750,"Dean E. Smith Center ",35.89948365,-79.0438118682028
-"4",4,"SEC","Tennessee","Thompson Boling Arena ","Thompson Boling Arena ",21678,"Thompson Boling Arena ",35.9511756,-83.9250130483568
-"5",5,"Big East","Georgetown","Capital One Arena ","Capital One Arena ",20600,"Capital One Arena ",38.8981883,-77.0209377602636
-"6",6,"SEC","Kentucky","Rupp Arena ","Rupp Arena ",20500,"Rupp Arena ",38.04941235,-84.5023585654463
-"7",7,"Big East","St. John's","Madison Square Garden ","Madison Square Garden ",19812,"Madison Square Garden ",40.7505129,-73.9935159454515
-"8",8,"ACC","N.C. State","PNC Arena ","PNC Arena ",19700,"PNC Arena ",35.80339805,-78.7219165859909
-"9",9,"SEC","Arkansas","Bud Walton Arena ","Bud Walton Arena ",19200,"Bud Walton Arena ",36.06156975,-94.1781074593006
-"10",10,"Big Ten","Ohio St.","Value City Arena ","Value City Arena ",19049,"Value City Arena ",40.0076033,-83.0249566525742
-"11",11,"American","Memphis","FedExForum ","FedExForum ",18400,"FedExForum ",35.1382401,-90.050694577681
-"12",12,"Atlantic Sun","Bellarmine","Freedom Hall ","Freedom Hall ",18252,"Freedom Hall ",36.3244327,-82.3751979449904
-"13",13,"SEC","South Carolina","Colonial Life Arena ","Colonial Life Arena ",18000,"Colonial Life Arena ",33.99478385,-81.0373546200974
-"14",13,"Mountain West","UNLV","Thomas & Mack Center ","Thomas & Mack Center ",18000,"Thomas & Mack Center ",36.10492295,-115.144266201454
-"15",15,"Big 12","BYU","Marriott Center ","Marriott Center ",17978,"Marriott Center ",40.25386355,-111.649345561597
-"16",16,"Big Ten","Maryland","Xfinity Center ","Xfinity Center ",17950,"Xfinity Center ",38.99562385,-76.9413362170981
-"17",17,"Big East","Marquette","Fiserv Forum ","Fiserv Forum ",17600,"Fiserv Forum ",43.04500955,-87.9174871058158
-"18",18,"Big Ten","Indiana","Assembly Hall ","Assembly Hall ",17472,"Assembly Hall ",40.7697569,-111.893333095198
-"19",19,"Big East","Creighton","CHI Health Center Omaha ","CHI Health Center Omaha ",17352,"CHI Health Center Omaha ",41.2636669,-95.9279384771368
-"20",20,"Big Ten","Wisconsin","Kohl Center ","Kohl Center ",17287,"Kohl Center ",43.06941395,-89.3968669343219
-"21",21,"Big 12","Kansas","Allen Fieldhouse ","Allen Fieldhouse ",16300,"Allen Fieldhouse ",38.9543125,-95.2528213736955
-"22",22,"Mountain West","Fresno St.","Save Mart Center ","Save Mart Center ",15596,"Save Mart Center ",36.809685,-119.7385104
-"23",23,"Big Ten","Illinois","State Farm Center ","State Farm Center ",15544,"State Farm Center ",40.0962914,-88.2358969015018
-"24",24,"Mountain West","New Mexico","The Pit ","The Pit ",15411,"The Pit ",35.0667282,-106.63219913411
-"25",25,"SEC","Alabama","Coleman Coliseum ","Coleman Coliseum ",15316,"Coleman Coliseum ",33.20270415,-87.5397128001474
-"26",26,"Big Ten","Penn St.","Bryce Jordan Center ","Bryce Jordan Center ",15261,"Bryce Jordan Center ",40.80857205,-77.8554679459386
-"27",27,"Big 12","Texas Tech","United Supermarkets Arena ","United Supermarkets Arena ",15098,"United Supermarkets Arena ",33.58125055,-101.886570991365
-"28",28,"SEC","Missouri","Mizzou Arena ","Mizzou Arena ",15061,"Mizzou Arena ",38.93248195,-92.3337338138537
-"29",29,"Big Ten","Iowa","Carver Hawkeye Arena ","Carver Hawkeye Arena ",15056,"Carver Hawkeye Arena ",41.6640099,-91.55453693653
-"30",30,"Big Ten","Nebraska","Pinnacle Bank Arena ","Pinnacle Bank Arena ",15000,"Pinnacle Bank Arena ",40.81786495,-96.7125279612046
-"31",30,"PAC 12","Utah","Huntsman Center ","Huntsman Center ",15000,"Huntsman Center ",40.7612203,-111.8381353
-"32",32,"Big Ten","Purdue","Mackey Arena ","Mackey Arena ",14804,"Mackey Arena ",40.43333495,-86.9161711527253
-"33",33,"Big Ten","Michigan St.","Breslin Center ","Breslin Center ",14797,"Breslin Center ",42.7281765,-84.492002220925
-"34",34,"PAC 12","Arizona","McKale Memorial Center ","McKale Memorial Center ",14688,"McKale Memorial Center ",32.23044805,-110.945994691776
-"35",35,"ACC","Wake Forest","Joel Coliseum ","Joel Coliseum ",14665,"Joel Coliseum ",36.1278331,-80.2578025121516
-"36",36,"Big Ten","Minnesota","Williams Arena ","Williams Arena ",14625,"Williams Arena ",44.9769776,-93.2282730026898
-"37",37,"ACC","Virginia","John Paul Jones Arena ","John Paul Jones Arena ",14623,"John Paul Jones Arena ",38.0459828,-78.5066437115523
-"38",38,"SEC","Vanderbilt","Memorial Gym ","Memorial Gym ",14316,"Memorial Gym ",36.144603,-86.80738
-"39",39,"Big 12","Iowa St.","Hilton Coliseum ","Hilton Coliseum ",14267,"Hilton Coliseum ",42.0210001,-93.6347685588887
-"40",40,"Big 12","West Virginia","WVU Coliseum ","WVU Coliseum ",14000,"WVU Coliseum ",39.64944585,-79.9814035593801
-"41",41,"PAC 12","UCLA","Pauley Pavilion ","Pauley Pavilion ",13800,"Pauley Pavilion ",34.07048685,-118.446776745086
-"42",42,"Big 12","Oklahoma St.","Gallagher Iba Arena ","Gallagher Iba Arena ",13611,"Gallagher Iba Arena ",36.1257346,-97.0651528615191
-"43",43,"Atlantic 10","Dayton","University of Dayton Arena ","University of Dayton Arena ",13455,"University of Dayton Arena ",39.73552455,-84.1998362736831
-"44",44,"SEC","LSU","Maravich Assembly Center ","Maravich Assembly Center ",13215,"Maravich Assembly Center ",30.4142729,-91.1835309489903
-"45",45,"MAC","Ohio","Convocation Center ","Convocation Center ",13080,"Convocation Center ",42.2542969,-83.647366129931
-"46",46,"SEC","Texas A&M","Reed Arena ","Reed Arena ",12989,"Reed Arena ",30.60568315,-96.3462954986893
-"47",47,"Big Ten","Michigan","Crisler Center ","Crisler Center ",12707,"Crisler Center ",42.26504135,-83.7466711498971
-"48",48,"PAC 12","Oregon","Knight Arena ","Knight Arena ",12541,"Knight Arena ",44.0448264,-123.066368375633
-"49",49,"ACC","Pittsburgh","Petersen Events Center ","Petersen Events Center ",12508,"Petersen Events Center ",40.44400025,-79.9621192707584
-"50",50,"CUSA","New Mexico St.","Pan American Center ","Pan American Center ",12482,"Pan American Center ",32.28399895,-106.742227374762
-"51",51,"Mountain West","Boise St.","ExtraMile Arena ","ExtraMile Arena ",12480,"ExtraMile Arena ",43.60356945,-116.198947558299
-"52",52,"Mountain West","San Diego St.","Viejas Arena ","Viejas Arena ",12414,"Viejas Arena ",32.77381085,-117.074540388069
-"53",53,"Big East","Providence","Amica Mutual Pavilion ","Amica Mutual Pavilion ",12410,"Amica Mutual Pavilion ",41.8236194,-71.4180895693439
-"54",54,"Sun Belt","Louisiana","Cajundome ","Cajundome ",12362,"Cajundome ",30.2171455,-92.0398434
-"55",55,"ACC","Florida St.","Donald L. Tucker Center ","Donald L. Tucker Center ",12100,"Donald L. Tucker Center ",30.43779185,-84.286662940797
-"56",56,"Big 12","Cincinnati","Fifth Third Arena ","Fifth Third Arena ",12012,"Fifth Third Arena ",39.1311038,-84.5141164780367
-"57",57,"Horizon","Purdue Fort Wayne","Allen County War Memorial Coliseum ","Allen County War Memorial Coliseum ",12000,"Allen County War Memorial Coliseum ",41.11542505,-85.1242023857866
-"58",58,"CUSA","UTEP","Don Haskins Center ","Don Haskins Center ",11892,"Don Haskins Center ",31.7776129,-106.505691663767
-"59",59,"PAC 12","California","Haas Pavilion ","Haas Pavilion ",11877,"Haas Pavilion ",37.86939865,-122.262207935716
-"60",60,"PAC 12","Washington St.","Beasley Coliseum ","Beasley Coliseum ",11671,"Beasley Coliseum ",46.73524395,-117.158112646419
-"61",61,"Big 12","Oklahoma","Lloyd Noble Center ","Lloyd Noble Center ",11562,"Lloyd Noble Center ",35.18701985,-97.4443140044189
-"62",62,"Mountain West","Nevada","Lawlor Events Center ","Lawlor Events Center ",11536,"Lawlor Events Center ",39.5450739,-119.818300949546
-"63",63,"CUSA","Middle Tennessee","Murphy Center ","Murphy Center ",11520,"Murphy Center ",35.8486,-86.3669
-"64",64,"MAC","Ball St.","Worthen Arena ","Worthen Arena ",11500,"Worthen Arena ",40.2070497,-85.4061529368958
-"65",64,"Big Sky","Weber St.","Dee Events Center ","Dee Events Center ",11500,"Dee Events Center ",41.1823379,-111.9449645
-"66",66,"Mountain West","Wyoming","Arena Auditorium ","Arena Auditorium ",11445,"Arena Auditorium ",41.3132737,-105.569288062895
-"67",67,"PAC 12","Colorado","CU Events Center ","CU Events Center ",11064,"CU Events Center ",40.00468695,-105.260606567693
-"68",68,"Missouri Valley","Bradley","Carver Arena ","Carver Arena ",11060,"Carver Arena ",40.69186135,-89.5935531631601
-"69",69,"Big 12","Kansas St.","Bramlage Coliseum ","Bramlage Coliseum ",11000,"Bramlage Coliseum ",39.20031835,-96.5938455611737
-"70",69,"Missouri Valley","Missouri St.","685 S John Q Hammons Pkwy, Springfield, MO 65807","Great Southern Bank Arena ",11000,"685 S John Q Hammons Pkwy, Springfield, MO 65807",37.20207805,-93.2830663164255
-"71",71,"SoCon","Chattanooga","McKenzie Arena ","McKenzie Arena ",10995,"McKenzie Arena ",35.0504026,-85.300943936378
-"72",72,"Horizon","Milwaukee","UWM Panther Arena ","UWM Panther Arena ",10783,"UWM Panther Arena ",43.0422882,-87.9169519898426
-"73",73,"Big 12","Texas","Moody Center ","Moody Center ",10763,"Moody Center ",30.28093665,-97.7306522348233
-"74",74,"PAC 12","Arizona St.","Desert Financial Arena ","Desert Financial Arena ",10754,"Desert Financial Arena ",33.42450785,-111.931009979692
-"75",75,"Atlantic 10","Saint Louis","Chaifetz Arena ","Chaifetz Arena ",10600,"Chaifetz Arena ",38.63252555,-90.2281768892448
-"76",76,"SEC","Mississippi St.","Humphrey Coliseum ","Humphrey Coliseum ",10575,"Humphrey Coliseum ",33.4614945,-88.7939804020958
-"77",76,"Summit","Oral Roberts","Mabee Center ","Mabee Center ",10575,"Mabee Center ",36.04812005,-95.9556507296253
-"78",78,"SEC","Georgia","Stegeman Coliseum ","Stegeman Coliseum ",10523,"Stegeman Coliseum ",33.9427717,-83.3781356622891
-"79",79,"American","Wichita St.","Charles Koch Arena ","Charles Koch Arena ",10506,"Charles Koch Arena ",37.72182385,-97.2974249790007
-"80",80,"American","North Texas","The Super Pit ","The Super Pit ",10500,"The Super Pit ",33.2087178,-97.1540627728197
-"81",80,"Ohio Valley","Tennessee St.","Gentry Center ","Gentry Center ",10500,"Gentry Center ",32.73946505,-96.9980432670797
-"82",82,"Big East","Seton Hall","Prudential Center ","Prudential Center ",10481,"Prudential Center ",40.7336045,-74.1710630983405
-"83",83,"Horizon","Wright St.","Nutter Center ","Nutter Center ",10449,"Nutter Center ",39.7821311,-84.0523263415521
-"84",84,"American","South Florida","Yuengling Center ","Yuengling Center ",10411,"Yuengling Center ",28.05924435,-82.4066241144749
-"85",85,"Big East","DePaul","Wintrust Arena ","Wintrust Arena ",10387,"Wintrust Arena ",41.8536992,-87.6213549065421
-"86",87,"Mountain West","Utah St.","Dee Glen Smith Spectrum ","Dee Glen Smith Spectrum ",10270,"Dee Glen Smith Spectrum ",41.7476285,-111.812123834605
-"87",88,"PAC 12","USC","Galen Center ","Galen Center ",10258,"Galen Center ",34.02075295,-118.279796528007
-"88",89,"Big East","Xavier","Cintas Center ","Cintas Center ",10224,"Cintas Center ",39.15031195,-84.4717983291354
-"89",90,"American","Temple","1776 N Broad St, Philadelphia, PA 19121","The Liacouras Center ",10206,"1776 N Broad St, Philadelphia, PA 19121",39.9798139,-75.1585825304769
-"90",91,"Missouri Valley","Indiana St.","Hulman Center ","Hulman Center ",10200,"Hulman Center ",39.4685257,-87.4051441342561
-"91",92,"Big East","Connecticut","Gampel Pavilion ","Gampel Pavilion ",10167,"Gampel Pavilion ",41.8052875,-72.2544020222615
-"92",93,"SEC","Florida","Exactech Arena ","Exactech Arena ",10151,"Exactech Arena ",29.6494189,-82.3510890665513
-"93",94,"Southland","Lamar","Montagne Center ","Montagne Center ",10080,"Montagne Center ",30.0440591,-94.07072125
-"94",95,"Sun Belt","Arkansas St.","First National Bank Arena ","First National Bank Arena ",10038,"First National Bank Arena ",35.84535655,-90.670419011854
-"95",96,"Sun Belt","South Alabama","Mitchell Center ","Mitchell Center ",10000,"Mitchell Center ",30.69226205,-88.1796888798321
-"96",96,"Big 12","UCF","Addition Financial Arena ","Addition Financial Arena ",10000,"Addition Financial Arena ",28.60733375,-81.1972925861959
-"97",98,"Horizon","Green Bay","Resch Center ","Resch Center ",9729,"Resch Center ",44.4994911,-88.0550423257152
-"98",99,"PAC 12","Oregon St.","Gill Coliseum ","Gill Coliseum ",9604,"Gill Coliseum ",44.5612668,-123.280579915635
-"99",100,"Missouri Valley","Illinois St.","CEFCU Arena ","CEFCU Arena ",9600,"CEFCU Arena ",40.51068395,-88.9987906829692
-"100",101,"SEC","Mississippi","762 All American Drive, University, MS 38677","The Pavilion at Ole Miss ",9500,"762 All American Drive, University, MS 38677",34.362962,-89.535854
-"101",102,"Atlantic 10","Massachusetts","Mullins Center ","Mullins Center ",9493,"Mullins Center ",42.3895333,-72.5334459869138
-"102",103,"Horizon","Northern Kentucky","Truist Arena ","Truist Arena ",9400,"Truist Arena ",39.0320132,-84.4591054470009
-"103",104,"ACC","Duke","Cameron Indoor Stadium ","Cameron Indoor Stadium ",9314,"Cameron Indoor Stadium ",35.9974496,-78.9422669036346
-"104",105,"PAC 12","Washington","Alaska Airlines Arena ","Alaska Airlines Arena ",9268,"Alaska Airlines Arena ",47.65217845,-122.302124801148
-"105",106,"ACC","Notre Dame","Joyce Center ","Joyce Center ",9149,"Joyce Center ",42.4079403,-71.1163782454248
-"106",107,"SEC","Auburn","Neville Arena ","Neville Arena ",9121,"Neville Arena ",32.602669,-85.492537
-"107",108,"American","Charlotte","Barnhardt Student Activity Center, 9201 University City Blvd #202, Charlotte, NC 28223","Halton Arena ",9105,"Barnhardt Student Activity Center, 9201 University City Blvd #202, Charlotte, NC 28223",35.28439,-80.72945
-"108",109,"Big East","Butler","Hinkle Fieldhouse ","Hinkle Fieldhouse ",9100,"Hinkle Fieldhouse ",39.8435958,-86.1674277308938
-"109",109,"MAC","Northern Illinois","Convocation Center ","Convocation Center ",9100,"Convocation Center ",42.2542969,-83.647366129931
-"110",111,"ACC","Clemson","Littlejohn Coliseum ","Littlejohn Coliseum ",9000,"Littlejohn Coliseum ",34.68018735,-82.846473041737
-"111",111,"SWAC","Florida A&M","Lawson Center ","Lawson Center ",9000,"Lawson Center ",30.424264,-84.290524
-"112",113,"American","SMU","Moody Coliseum ","Moody Coliseum ",8998,"Moody Coliseum ",32.8403971,-96.7806817290028
-"113",114,"Missouri Valley","Evansville","Ford Center ","Ford Center ",8930,"Ford Center ",37.972297,-87.5679482175282
-"114",115,"ACC","Virginia Tech","Cassell Coliseum ","Cassell Coliseum ",8925,"Cassell Coliseum ",37.22250695,-80.418912108596
-"115",116,"Southland","New Orleans","Lakefront Arena ","Lakefront Arena ",8785,"Lakefront Arena ",30.03010495,-90.0505066920165
-"116",117,"MAC","Eastern Michigan","799 N Hewitt Rd, Ypsilanti, MI 48197","George Gervin GameAbove Center ",8754,"799 N Hewitt Rd, Ypsilanti, MI 48197",42.25098,-83.647736
-"117",118,"Mountain West","Colorado St.","Moby Arena ","Moby Arena ",8745,"Moby Arena ",40.57568405,-105.093216566135
-"118",119,"Ivy","Penn","The Palestra ","The Palestra ",8722,"The Palestra ",39.9514018,-75.1886361741601
-"119",120,"ACC","Boston College","Conte Forum ","Conte Forum ",8606,"Conte Forum ",42.3351475,-71.1677658832287
-"120",121,"ACC","Georgia Tech","McCamish Pavilion ","McCamish Pavilion ",8600,"McCamish Pavilion ",33.78060245,-84.3927616064607
-"121",121,"Missouri Valley","Murray St.","CFSB Center ","CFSB Center ",8600,"CFSB Center ",36.62266785,-88.3198817340516
-"122",121,"Colonial","William & Mary","Kaplan Arena ","Kaplan Arena ",8600,"Kaplan Arena ",37.27349425,-76.7197210586418
-"123",124,"Horizon","Cleveland St.","Wolstein Center ","Wolstein Center ",8500,"Wolstein Center ",41.49923375,-81.6766496152172
-"124",124,"Sun Belt","James Madison","Atlantic Union Bank Center ","Atlantic Union Bank Center ",8500,"Atlantic Union Bank Center ",38.43054375,-78.8595716848321
-"125",124,"Southland","Texas A&M Corpus Chris","American Bank Center ","American Bank Center ",8500,"American Bank Center ",27.80722875,-97.3934530379944
-"126",124,"American","UAB","Bartow Arena ","Bartow Arena ",8500,"Bartow Arena ",33.502124,-86.8092439169453
-"127",128,"Sun Belt","Old Dominion","Chartway Arena ","Chartway Arena ",8472,"Chartway Arena ",36.88413485,-76.3013785224339
-"128",129,"American","Tulsa","Reynolds Center ","Reynolds Center ",8355,"Reynolds Center ",36.1490016,-95.9421785037874
-"129",130,"Missouri Valley","Southern Illinois","Banterra Center ","Banterra Center ",8339,"Banterra Center ",37.7082751,-89.218717641296
-"130",131,"Sun Belt","Appalachian St.","Holmes Center ","Holmes Center ",8325,"Holmes Center ",36.21071345,-81.6758730151542
-"131",132,"Horizon","Detroit Mercy","Calihan Hall ","Calihan Hall ",8295,"Calihan Hall ",42.41434335,-83.1359254242648
-"132",133,"SWAC","Texas Southern","3000 Wheeler Ave, Houston, TX 77004","Health & PE Arena ",8100,"3000 Wheeler Ave, Houston, TX 77004",29.7190741,-95.3506895
-"133",134,"Sun Belt","Southern Miss","Reed Green Coliseum ","Reed Green Coliseum ",8095,"Reed Green Coliseum ",31.33099645,-89.3379338060356
-"134",135,"American","East Carolina","200 Ficklen Dr, Greenville, NC 27858","Williams Arena at Minges Coliseum ",8000,"200 Ficklen Dr, Greenville, NC 27858",35.5989658,-77.3677044
-"135",135,"Big Sky","Idaho St.","Holt Arena ","Holt Arena ",8000,"Holt Arena ",42.86998575,-112.428558929277
-"136",135,"Missouri Valley","Illinois Chicago","Credit Union 1 Arena ","Credit Union 1 Arena ",8000,"Credit Union 1 Arena ",41.8746993,-87.6561358171872
-"137",135,"SWAC","Jackson St.","Williams Center ","Williams Center ",8000,"Williams Center ",32.299722,-90.211874
-"138",135,"CUSA","Louisiana Tech","Thomas Assembly Center ","Thomas Assembly Center ",8000,"Thomas Assembly Center ",32.5320734,-92.6584854584362
-"139",135,"Big Ten","Rutgers","83 Rockafeller Rd, Piscataway, NJ 08854","Jersey Mike's Arena ",8000,"83 Rockafeller Rd, Piscataway, NJ 08854",40.5251962,-74.4413560279909
-"140",141,"ACC","Miami FL","Watsco Center ","Watsco Center ",7972,"Watsco Center ",25.71531895,-80.2793698321104
-"141",142,"Summit","Nebraska Omaha","Baxter Arena ","Baxter Arena ",7898,"Baxter Arena ",41.23611645,-96.0130108709843
-"142",143,"Atlantic 10","George Mason","4500 Patriot Cir, Fairfax, VA 22030","EagleBank Arena ",7860,"4500 Patriot Cir, Fairfax, VA 22030",38.82686055,-77.3096753199218
-"143",144,"SoCon","Western Carolina","Ramsey Center ","Ramsey Center ",7826,"Ramsey Center ",33.9366887,-83.3703716
-"144",145,"Atlantic 10","Rhode Island","Ryan Center ","Ryan Center ",7657,"Ryan Center ",41.48776885,-71.5358428658674
-"145",146,"Atlantic 10","VCU","Siegel Center ","Siegel Center ",7637,"Siegel Center ",37.55287535,-77.4528272220386
-"146",147,"SoCon","UNC Greensboro","Greensboro Coliseum ","Greensboro Coliseum ",7617,"Greensboro Coliseum ",36.05155955,-79.8229972476459
-"147",148,"CUSA","Western Kentucky","1605 Avenue of Champions, Bowling Green, KY 42101","E.A. Diddle Arena ",7523,"1605 Avenue of Champions, Bowling Green, KY 42101",36.9830722,-86.4599698
-"148",149,"Big 12","Baylor","Foster Pavilion ","Foster Pavilion ",7500,"Foster Pavilion ",31.547865,-97.105676
-"149",149,"Southland","Southeastern Louisiana","University Center ","University Center ",7500,"University Center ",30.52015005,-90.4731240503526
-"150",149,"SWAC","Southern","Clark Activity Center ","Clark Activity Center ",7500,"Clark Activity Center ",30.521954,-91.185513
-"151",149,"Ohio Valley","Tennessee Tech","Eblen Center ","Eblen Center ",7500,"Eblen Center ",36.17841905,-85.5098220879035
-"152",149,"Western Athletic","Utah Valley","UCCU Center ","UCCU Center ",7500,"UCCU Center ",40.27866555,-111.717059568971
-"153",154,"SWAC","Alabama St.","Dunn-Oliver Acadome ","Dunn-Oliver Acadome ",7400,"Dunn-Oliver Acadome ",32.36184355,-86.2931797968577
-"154",155,"PAC 12","Stanford","Maples Pavilion ","Maples Pavilion ",7329,"Maples Pavilion ",37.429523,-122.160578939481
-"155",156,"Big Sky","Montana","University of Montana, Missoula, MT 59812","Dahlberg Arena ",7322,"University of Montana, Missoula, MT 59812",46.8541841,-113.965528302663
-"156",157,"Sun Belt","Georgia St.","455 Capitol Ave SE, Atlanta, GA 30312","GSU Convocation Center ",7300,"455 Capitol Ave SE, Atlanta, GA 30312",33.7425348,-84.3886842006416
-"157",157,"MAC","Toledo","Savage Arena ","Savage Arena ",7300,"Savage Arena ",41.6601307,-83.6100354130828
-"158",159,"Missouri Valley","Northern Iowa","McLeod Center ","McLeod Center ",7293,"McLeod Center ",42.51438265,-92.4672608509135
-"159",160,"Western Athletic","Stephen F. Austin","Johnson Coliseum ","Johnson Coliseum ",7203,"Johnson Coliseum ",30.71290525,-95.5462087030306
-"160",161,"Atlantic 10","Richmond","Robins Center ","Robins Center ",7201,"Robins Center ",37.58066725,-77.5388907319783
-"161",162,"Colonial","Hampton","Hampton Convocation Center ","Hampton Convocation Center ",7200,"Hampton Convocation Center ",37.01985375,-76.3311392270882
-"162",162,"Sun Belt","Texas St.","Strahan Arena ","Strahan Arena ",7200,"Strahan Arena ",29.8885339,-97.9324629778609
-"163",164,"Missouri Valley","Drake","Knapp Center ","Knapp Center ",7152,"Knapp Center ",41.60477805,-93.6522633052631
-"164",165,"Metro Atlantic","Siena","MVP Arena ","MVP Arena ",7146,"MVP Arena ",42.6484107,-73.7547596297671
-"165",166,"Big West","UC Davis","The Pavilion ","The Pavilion ",7100,"The Pavilion ",38.541879,-121.759476
-"166",167,"Big Ten","Northwestern","Welsh-Ryan Arena ","Welsh-Ryan Arena ",7039,"Welsh-Ryan Arena ",42.0668689,-87.6924404519104
-"167",168,"Big 12","Houston","Fertitta Center ","Fertitta Center ",7035,"Fertitta Center ",29.7247367,-95.3469609779803
-"168",169,"SWAC","Alcorn St.","Whitney Complex ","Whitney Complex ",7000,"Whitney Complex ",31.8731507,-91.1332301558736
-"169",169,"Western Athletic","Grand Canyon","GCU Arena ","GCU Arena ",7000,"GCU Arena ",33.5101486,-112.1289216
-"170",169,"Sun Belt","Louisiana Monroe","4099 Northeast Dr, Monroe, LA 71203","Fant-Ewing Coliseum ",7000,"4099 Northeast Dr, Monroe, LA 71203",32.53103365,-92.0693953269008
-"171",169,"Ohio Valley","Southeast Missouri St.","Show Me Center ","Show Me Center ",7000,"Show Me Center ",37.32011465,-89.5274887833949
-"172",169,"Western Athletic","UT Arlington","College Park Center ","College Park Center ",7000,"College Park Center ",32.730505,-97.1080740192308
-"173",174,"Ivy","Princeton","Jadwin Gymnasium ","Jadwin Gymnasium ",6854,"Jadwin Gymnasium ",40.34340855,-74.6486474422414
-"174",175,"Horizon","IUPUI","1202 E 38th St, Indianapolis, IN 46205","Indiana Farmers Coliseum ",6800,"1202 E 38th St, Indianapolis, IN 46205",39.82887885,-86.12957235
-"175",175,"Big 12","TCU","Schollmaier Arena ","Schollmaier Arena ",6800,"Schollmaier Arena ",32.70883025,-97.3666972966431
-"176",177,"Colonial","North Carolina A&T","405 N Benbow Rd, Greensboro, NC 27411","Corbett Sports Center ",6700,"405 N Benbow Rd, Greensboro, NC 27411",36.0773841,-79.7681522
-"177",178,"SoCon","East Tennessee St.","1320 Pactolas Rd, Johnson City, TN 37604","Freedom Hall Civic Center ",6500,"1320 Pactolas Rd, Johnson City, TN 37604",36.323411,-82.3775107
-"178",178,"Atlantic Sun","Eastern Kentucky","641 Eastern Bypass, Richmond, KY 40475","Baptist Health Arena ",6500,"641 Eastern Bypass, Richmond, KY 40475",37.736967,-84.270156
-"179",178,"Ohio Valley","Morehead St.","Johnson Arena ","Johnson Arena ",6500,"Johnson Arena ",41.62229295,-91.5474593757027
-"180",178,"Summit","South Dakota St.","Frost Arena ","Frost Arena ",6500,"Frost Arena ",44.318012,-96.7792611532732
-"181",178,"Big East","Villanova","800 E Lancaster Ave, Villanova, PA 19085","Finneran Pavilion ",6500,"800 E Lancaster Ave, Villanova, PA 19085",40.0359804,-75.3433070018965
-"182",183,"MAC","Miami OH","Millett Hall ","Millett Hall ",6400,"Millett Hall ",39.78367745,-84.0626464944208
-"183",183,"Horizon","Youngstown St.","Beeghly Center ","Beeghly Center ",6400,"Beeghly Center ",41.1082465,-80.6490136065898
-"184",185,"MAC","Kent St.","Memorial Athletic & Convocation Center ","Memorial Athletic & Convocation Center ",6327,"Memorial Athletic & Convocation Center ",41.1481862,-81.3440024878124
-"185",186,"Mid-Eastern Athletic","Norfolk St.","Echols Hall ","Echols Hall ",6191,"Echols Hall ",36.84798105,-76.2581610712755
-"186",187,"West Coast","Pacific","Spanos Center ","Spanos Center ",6150,"Spanos Center ",37.9766716,-121.315117010087
-"187",188,"CUSA","Sam Houston St.","Johnson Coliseum ","Johnson Coliseum ",6110,"Johnson Coliseum ",30.71290525,-95.5462087030306
-"188",189,"MAC","Buffalo","Alumni Arena ","Alumni Arena ",6100,"Alumni Arena ",43.00012485,-78.7812162798177
-"189",189,"Colonial","UNC Wilmington","Trask Coliseum ","Trask Coliseum ",6100,"Trask Coliseum ",34.22495055,-77.8783465923032
-"190",189,"Big South","Winthrop","Winthrop Coliseum ","Winthrop Coliseum ",6100,"Winthrop Coliseum ",34.9481423,-81.0149230965024
-"191",192,"SWAC","Alabama A&M","4200 Memorial Parkway Huntsville, AL","Alabama A&M Events Center ",6000,"4200 Memorial Parkway Huntsville, AL",31.311319,-85.712418
-"192",192,"West Coast","Gonzaga","McCarthey Athletic Center ","McCarthey Athletic Center ",6000,"McCarthey Athletic Center ",47.6653904,-117.3991159
-"193",192,"Summit","South Dakota","Sanford Coyote Sports Center ","Sanford Coyote Sports Center ",6000,"Sanford Coyote Sports Center ",42.7900965,-96.9278775359555
-"194",192,"SoCon","The Citadel","McAlister Field House ","McAlister Field House ",6000,"McAlister Field House ",32.7985622,-79.9625348438532
-"195",192,"Big West","UC Santa Barbara","Thunderdome ","Thunderdome ",6000,"Thunderdome ",34.413885,-119.845562
-"196",197,"Mountain West","Air Force","Clune Arena ","Clune Arena ",5843,"Clune Arena ",39.01407375,-104.883612569002
-"197",198,"Atlantic Sun","North Florida","UNF Arena ","UNF Arena ",5800,"UNF Arena ",30.27214975,-81.5080994977793
-"198",199,"Patriot","Navy","Alumni Hall ","Alumni Hall ",5710,"Alumni Hall ",38.98442995,-76.4878045091009
-"199",200,"Summit","North Dakota St.","Scheels Center ","Scheels Center ",5644,"Scheels Center ",41.5709384,-93.8034437727939
-"200",201,"Patriot","Lehigh","Stabler Arena ","Stabler Arena ",5600,"Stabler Arena ",40.5852911,-75.3573984206938
-"201",201,"Ohio Valley","Little Rock","Stephens Center ","Stephens Center ",5600,"Stephens Center ",34.724273,-81.341018
-"202",203,"MAC","Akron","Rhodes Arena ","Rhodes Arena ",5500,"Rhodes Arena ",41.0758937,-81.5086450368824
-"203",203,"Atlantic Sun","Austin Peay","F&M Bank Arena ","F&M Bank Arena ",5500,"F&M Bank Arena ",36.534643,-87.354921
-"204",203,"Atlantic Sun","Central Arkansas","Farris Center ","Farris Center ",5500,"Farris Center ",35.0818116,-92.4595668133309
-"205",203,"Mid-Eastern Athletic","Maryland Eastern Shore","University System of Maryland, 300 Metzerott Rd, Adelphi, MD 20783","Hytche Athletic Center ",5500,"University System of Maryland, 300 Metzerott Rd, Adelphi, MD 20783",39.13771,-76.5432
-"206",203,"Sun Belt","Troy","Trojan Arena ","Trojan Arena ",5500,"Trojan Arena ",31.802287,-85.952433580008
-"207",208,"Atlantic 10","St. Bonaventure","Reilly Center ","Reilly Center ",5480,"Reilly Center ",42.079501,-78.484879
-"208",209,"Sun Belt","Marshall","Henderson Center ","Henderson Center ",5467,"Henderson Center ",40.1135241,-75.3765412349203
-"209",210,"MAC","Western Michigan","University Arena ","University Arena ",5421,"University Arena ",42.2833436,-85.6085860448547
-"210",211,"MAC","Central Michigan","McGuirk Arena ","McGuirk Arena ",5300,"McGuirk Arena ",43.5815664,-84.774189
-"211",211,"Ohio Valley","Eastern Illinois","2150 4th St #2046, Charleston, IL 61920","Lantz Arena ",5300,"2150 4th St #2046, Charleston, IL 61920",40.11602,-88.194771
-"212",211,"Western Athletic","Southern Utah","America First Event Center ","America First Event Center ",5300,"America First Event Center ",37.675507,-113.072893
-"213",214,"Atlantic 10","Davidson","Belk Arena ","Belk Arena ",5223,"Belk Arena ",35.4992414,-80.840296
-"214",215,"American","Rice","Tudor Fieldhouse ","Tudor Fieldhouse ",5208,"Tudor Fieldhouse ",29.71498295,-95.4039871253966
-"215",216,"Colonial","Towson","SECU Arena ","SECU Arena ",5200,"SECU Arena ",39.3873809,-76.6170992728389
-"216",217,"America East","Binghamton","Events Center ","Events Center ",5142,"Events Center ",42.0992,-75.9115
-"217",218,"Ohio Valley","Western Illinois","Western Hall ","Western Hall ",5139,"Western Hall ",40.4717635,-90.6851161
-"218",219,"Colonial","Charleston","TD Arena ","TD Arena ",5100,"TD Arena ",32.7834,-79.937
-"219",219,"Colonial","Elon","Schar Center ","Schar Center ",5100,"Schar Center ",36.1080901,-79.5106843977845
-"220",219,"West Coast","San Diego","Jenny Craig Pavilion ","Jenny Craig Pavilion ",5100,"Jenny Craig Pavilion ",32.77446015,-117.183716994146
-"221",222,"Colonial","Northeastern","Matthews Arena ","Matthews Arena ",5065,"Matthews Arena ",42.34132975,-71.0843149755329
-"222",223,"Western Athletic","Cal Baptist","8432 Magnolia Ave, Riverside, CA 92504","Fowler Events Center ",5050,"8432 Magnolia Ave, Riverside, CA 92504",33.9283239,-117.425920620585
-"223",224,"Colonial","Hofstra","Mack Sports Complex ","Mack Sports Complex ",5045,"Mack Sports Complex ",40.7197699,-73.5968069474636
-"224",225,"Patriot","Army","600 Thayer Rd, West Point, NY 10996l Arena ","Christl Arena ",5043,"600 Thayer Rd, West Point, NY 10996l Arena ",41.40118,-73.972321
-"225",226,"SoCon","VMI","Cameron Hall ","Cameron Hall ",5029,"Cameron Hall ",37.7885154,-79.4366007254767
-"226",227,"Atlantic Sun","Lipscomb","Allen Arena ","Allen Arena ",5028,"Allen Arena ",36.10376485,-86.7989115638678
-"227",228,"Missouri Valley","Belmont","Curb Event Center ","Curb Event Center ",5000,"Curb Event Center ",36.1325887,-86.7944779108289
-"228",228,"Independent","Chicago St.","Jones Convocation Center ","Jones Convocation Center ",5000,"Jones Convocation Center ",41.71654825,-87.6085078294937
-"229",228,"Colonial","Delaware","Bob Carpenter Center ","Bob Carpenter Center ",5000,"Bob Carpenter Center ",39.66043895,-75.7487314271395
-"230",228,"Big Sky","Eastern Washington","Reese Court ","Reese Court ",5000,"Reese Court ",40.1349973,-74.3817125
-"231",228,"CUSA","FIU","Ocean Bank Convocation Center ","Ocean Bank Convocation Center ",5000,"Ocean Bank Convocation Center ",25.75693945,-80.3798025756902
-"232",228,"SoCon","Furman","Timmons Arena ","Timmons Arena ",5000,"Timmons Arena ",34.91805805,-82.4373228507259
-"233",228,"SoCon","Samford","Hanna Center ","Hanna Center ",5000,"Hanna Center ",38.3199138,-122.5063706
-"234",228,"Mountain West","San Jose St.","290 S 7th St, San Jose, CA 95112","Provident Credit Union Event Center ",5000,"290 S 7th St, San Jose, CA 95112",37.3338110883243,-121.880127586878
-"235",228,"Big West","UC Irvine","Bren Events Center ","Bren Events Center ",5000,"Bren Events Center ",33.6494575,-117.846905745866
-"236",228,"Missouri Valley","Valparaiso","Athletics Recreation Center ","Athletics Recreation Center ",5000,"Athletics Recreation Center ",41.46424985,-87.0483403431294
-"237",238,"West Coast","Portland","Chiles Center ","Chiles Center ",4854,"Chiles Center ",45.5750984,-122.728532825799
-"238",239,"Ohio Valley","Southern Indiana","Screaming Eagles Arena ","Screaming Eagles Arena ",4800,"Screaming Eagles Arena ",37.9620078,-87.6747080599229
-"239",240,"Western Athletic","Utah Tech","Burns Arena ","Burns Arena ",4779,"Burns Arena ",37.1015093,-113.56703439944
-"240",241,"America East","UMBC","Chesapeake Employers Insurance Arena ","Chesapeake Employers Insurance Arena ",4753,"Chesapeake Employers Insurance Arena ",39.25194725,-76.7070399375672
-"241",242,"America East","Albany","Broadview Center ","Broadview Center ",4538,"Broadview Center ",42.6821683,-73.8282597325326
-"242",243,"SWAC","Arkansas Pine Bluff","1542-1598 L A Prexy Davis Dr, Pine Bluff, AR 71601","Clemmons Arena ",4500,"1542-1598 L A Prexy Davis Dr, Pine Bluff, AR 71601",34.22159,-92.002
-"243",243,"Atlantic Sun","Florida Gulf Coast","Alico Arena ","Alico Arena ",4500,"Alico Arena ",26.47108735,-81.7645662536439
-"244",243,"Big Sky","Montana St.","1 Bobcat Cir, Bozeman, MT 59717","Worthington Arena ",4500,"1 Bobcat Cir, Bozeman, MT 59717",45.667809,-111.04763
-"245",243,"Mid-Eastern Athletic","Morgan St.","Hill Field House ","Hill Field House ",4500,"Hill Field House ",39.3422775,-76.5850611893365
-"246",243,"West Coast","Santa Clara","Leavey Center ","Leavey Center ",4500,"Leavey Center ",38.9099879,-77.074906273594
-"247",248,"Atlantic 10","Loyola Chicago","6525 N Sheridan Rd, Chicago, IL 60626","Gentile Arena ",4486,"6525 N Sheridan Rd, Chicago, IL 60626",42.0012884,-87.6598870959491
-"248",249,"Ivy","Cornell","Newman Arena ","Newman Arena ",4473,"Newman Arena ",42.445678,-76.476169
-"249",250,"Sun Belt","Georgia Southern","Hanner Fieldhouse ","Hanner Fieldhouse ",4358,"Hanner Fieldhouse ",32.42785745,-81.7800370644649
-"250",251,"MAC","Bowling Green","Stroh Center ","Stroh Center ",4347,"Stroh Center ",41.37534065,-83.6263122290515
-"251",252,"Atlantic 10","George Washington","Charles E. Smith Center ","Charles E. Smith Center ",4338,"Charles E. Smith Center ",38.8978142,-77.0493530962943
-"252",253,"Ohio Valley","Tennessee Martin","Elam Center ","Elam Center ",4300,"Elam Center ",36.34358865,-88.867982495084
-"253",254,"Big South","High Point","Qubein Center ","Qubein Center ",4200,"Qubein Center ",35.9782697,-79.9968780486954
-"254",254,"Big Sky","Idaho","Moscow, ID 83843","ICCU Arena ",4200,"Moscow, ID 83843",46.7323875,-117.000165
-"255",254,"Big West","Long Beach St.","1250 N Bellflower Blvd, Long Beach, CA 90840","The Walter Pyramid ",4200,"1250 N Bellflower Blvd, Long Beach, CA 90840",33.7874282,-118.114411574186
-"256",254,"Southland","McNeese St.","The Legacy Center ","The Legacy Center ",4200,"The Legacy Center ",30.17567,-93.209964
-"257",254,"Atlantic 10","Saint Joseph's","Hagan Arena ","Hagan Arena ",4200,"Hagan Arena ",39.9956149,-75.2348619651317
-"258",254,"West Coast","San Francisco","2335 Golden Gate Ave, San Francisco, CA 94118","War Memorial at the Sobrato Center ",4200,"2335 Golden Gate Ave, San Francisco, CA 94118",37.777218,-122.449708
-"259",260,"West Coast","Loyola Marymount","1 Loyola Marymount University Dr, Los Angeles, CA 90045","Gersten Pavilion ",4156,"1 Loyola Marymount University Dr, Los Angeles, CA 90045",33.967658,-118.415586
-"260",261,"Mid-Eastern Athletic","Coppin St.","Physical Education Complex ","Physical Education Complex ",4100,"Physical Education Complex ",39.31441115,-76.656680865462
-"261",261,"Colonial","Monmouth","OceanFirst Bank Center ","OceanFirst Bank Center ",4100,"OceanFirst Bank Center ",40.27936265,-74.0076094368717
-"262",263,"American","UTSA","Physical Education Building, San Antonio, TX 78249","UTSA Convocation Center ",4080,"Physical Education Building, San Antonio, TX 78249",29.5781,-98.59008
-"263",264,"Patriot","Bucknell","Sojka Pavilion ","Sojka Pavilion ",4000,"Sojka Pavilion ",40.9568967,-76.8869428
-"264",264,"Big West","Cal St. Fullerton","Titan Gym ","Titan Gym ",4000,"Titan Gym ",33.883121,-117.886101
-"265",264,"CUSA","Liberty","Liberty Arena ","Liberty Arena ",4000,"Liberty Arena ",37.3493449,-79.1801902843722
-"266",264,"Atlantic Sun","North Alabama","Flowers Hall ","Flowers Hall ",4000,"Flowers Hall ",34.80839485,-87.6838220804887
-"267",264,"Horizon","Robert Morris","UPMC Events Center ","UPMC Events Center ",4000,"UPMC Events Center ",40.52026875,-80.2146738637129
-"268",264,"Ohio Valley","SIU Edwardsville","First Community Arena ","First Community Arena ",4000,"First Community Arena ",38.793881,-89.998004
-"269",264,"Atlantic Sun","Stetson","Edmunds Center ","Edmunds Center ",4000,"Edmunds Center ",29.0395413,-81.3018214079189
-"270",264,"Colonial","Stony Brook","Island Federal Credit Union Arena ","Island Federal Credit Union Arena ",4000,"Island Federal Credit Union Arena ",40.91744135,-73.1259796117153
-"271",264,"Big West","UC San Diego","9860 Hopkins Dr, La Jolla, CA 92093","LionTree Arena ",4000,"9860 Hopkins Dr, La Jolla, CA 92093",32.715759,-117.163818
-"272",264,"Western Athletic","UT Rio Grande Valley","N 5th Ave, Edinburg, TX 78541","UTRGV Fieldhouse ",4000,"N 5th Ave, Edinburg, TX 78541",26.3112225,-98.1674619
-"273",274,"Big West","Cal St. Bakersfield","Icardo Center ","Icardo Center ",3880,"Icardo Center ",35.34758475,-119.102598219714
-"274",275,"Atlantic Sun","Kennesaw St.","590 Cobb Ave, Kennesaw, GA 30144","KSU Convocation Center ",3805,"590 Cobb Ave, Kennesaw, GA 30144",34.037252,-84.580101
-"275",276,"Southland","Nicholls St.","220 NSU, Colonel Dr, Thibodaux, LA 70301","Stopher Gym ",3800,"220 NSU, Colonel Dr, Thibodaux, LA 70301",29.7903,-90.8029
-"276",277,"Western Athletic","Abilene Christian","Moody Coliseum ","Moody Coliseum ",3600,"Moody Coliseum ",32.8403971,-96.7806817290028
-"277",277,"Sun Belt","Coastal Carolina","HTC Center ","HTC Center ",3600,"HTC Center ",33.79905435,-79.0156007826907
-"278",277,"Patriot","Holy Cross","1  College St, Worcester, MA 01610 ","Hart Center ",3600,"1  College St, Worcester, MA 01610 ",42.23668645,-71.8070248370831
-"279",277,"Southland","Northwestern St.","Prather Coliseum ","Prather Coliseum ",3600,"Prather Coliseum ",31.74396305,-93.0951189039326
-"280",277,"American","Tulane","Fogelman Arena ","Fogelman Arena ",3600,"Fogelman Arena ",29.93906735,-90.1207045970479
-"281",282,"Atlantic 10","Duquesne","1304 Forbes Ave, Pittsburgh, PA 15282","UPMC Cooper Fieldhouse ",3500,"1304 Forbes Ave, Pittsburgh, PA 15282",40.4377195949587,-79.9881379720768
-"282",282,"Metro Atlantic","Fairfield","Leo D Mahoney Arena, Loyola Drive, Fairfield, CT 06824","Mahoney Arena ",3500,"Leo D Mahoney Arena, Loyola Drive, Fairfield, CT 06824",39.31176,-76.56718
-"283",282,"Big South","Gardner Webb","110 Lutz-Yelton Dr, Boiling Springs, NC 28152","Paul Porter Arena ",3500,"110 Lutz-Yelton Dr, Boiling Springs, NC 28152",35.45482,-81.93344
-"284",282,"CUSA","Jacksonville St.","Mathews Coliseum ","Mathews Coliseum ",3500,"Mathews Coliseum ",33.8241454,-85.7734926057001
-"285",282,"America East","NJIT","Wellness and Events Center ","Wellness and Events Center ",3500,"Wellness and Events Center ",40.74229745,-74.1804097219979
-"286",282,"SWAC","Prairie View A&M","Prairie View, TX 77445","William Nicks Building ",3500,"Prairie View, TX 77445",30.0857916,-95.9907058
-"287",282,"Northeast","Saint Francis","DeGol Arena ","DeGol Arena ",3500,"DeGol Arena ",40.50466595,-78.6411025330208
-"288",282,"West Coast","Saint Mary's","1928 Saint Mary’s Road, Moraga, CA 94575","University Credit Union Pavilion ",3500,"1928 Saint Mary’s Road, Moraga, CA 94575",37.8467635894733,-122.109404571485
-"289",290,"Atlantic 10","La Salle","Tom Gola Arena ","Tom Gola Arena ",3400,"Tom Gola Arena ",40.04000285,-75.1565784991679
-"290",290,"SoCon","Wofford","Richardson Indoor Stadium ","Richardson Indoor Stadium ",3400,"Richardson Indoor Stadium ",34.9632234,-81.9329384394951
-"291",292,"Big Sky","Northern Arizona","Walkup Skydome ","Walkup Skydome ",3300,"Walkup Skydome ",35.18059825,-111.652898950192
-"292",293,"America East","Vermont","Patrick Gymnasium ","Patrick Gymnasium ",3266,"Patrick Gymnasium ",44.47008915,-73.1947872488209
-"293",294,"Metro Atlantic","Quinnipiac","305 Sherman Ave, Hamden, CT 06518","M&T Bank Arena ",3254,"305 Sherman Ave, Hamden, CT 06518",41.4138728,-72.9118004
-"294",295,"Northeast","Central Connecticut","1615 Stanley St, New Britain, CT 06053","Detrick Gymnasium ",3200,"1615 Stanley St, New Britain, CT 06053",41.6902691,-72.7698945
-"295",295,"Atlantic 10","Fordham","Rose Hill Gym ","Rose Hill Gym ",3200,"Rose Hill Gym ",40.859341,-73.882706
-"296",295,"Metro Atlantic","Marist","McCann Center ","McCann Center ",3200,"McCann Center ",41.71746945,-73.9353343390675
-"297",295,"SoCon","Mercer","Hawkins Arena ","Hawkins Arena ",3200,"Hawkins Arena ",32.8289652,-83.651787
-"298",295,"Big South","Radford","Dedmon Center ","Dedmon Center ",3200,"Dedmon Center ",37.13845635,-80.5416847632617
-"299",295,"Metro Atlantic","Saint Peter's","Yanitelli Center ","Yanitelli Center ",3200,"Yanitelli Center ",40.7277231,-74.0731491249115
-"300",295,"Mid-Eastern Athletic","South Carolina St.","200 Buckley St, Orangeburg, SC 29115","Smith Hammond Middleton Center ",3200,"200 Buckley St, Orangeburg, SC 29115",33.499346,-80.846122
-"301",295,"Big South","UNC Asheville","Kimmel Arena ","Kimmel Arena ",3200,"Kimmel Arena ",35.6180932,-82.5689033267281
-"302",303,"Metro Atlantic","Mount St. Mary's","16251 James Phelan Way, Emmitsburg, Maryland, United States","Knott Arena ",3121,"16251 James Phelan Way, Emmitsburg, Maryland, United States",39.6797,-77.3462
-"303",304,"Mid-Eastern Athletic","North Carolina Central","McLendon-McDougald Gymnasium ","McLendon-McDougald Gymnasium ",3116,"McLendon-McDougald Gymnasium ",35.97598025,-78.8977423951006
-"304",305,"West Coast","Pepperdine","Firestone Fieldhouse ","Firestone Fieldhouse ",3104,"Firestone Fieldhouse ",34.03854465,-118.709713392201
-"305",306,"Colonial","Campbell","56 Main St, Lillington, NC 27546","Pope Convocation Center ",3095,"56 Main St, Lillington, NC 27546",38.408588,-82.370773
-"306",307,"Big Sky","Portland St.","Viking Pavilion ","Viking Pavilion ",3094,"Viking Pavilion ",45.510843,-122.686536
-"307",308,"Summit","North Dakota","Betty Engelstad Sioux Center ","Betty Engelstad Sioux Center ",3064,"Betty Engelstad Sioux Center ",47.92759445,-97.0732544979229
-"308",309,"Big West","Cal Poly","Mott Gymnasium ","Mott Gymnasium ",3032,"Mott Gymnasium ",35.300241,-120.658861
-"309",310,"SWAC","Bethune Cookman","Moore Gym ","Moore Gym ",3000,"Moore Gym ",36.07671575,-79.7701549962806
-"310",310,"SWAC","Grambling St.","Assembly Center ","Assembly Center ",3000,"Assembly Center ",30.4144753,-91.1844893789833
-"311",310,"Ohio Valley","Lindenwood","Hyland Arena ","Hyland Arena ",3000,"Hyland Arena ",38.78916915,-90.5035928964988
-"312",310,"Big South","Longwood","Brock Center ","Brock Center ",3000,"Brock Center ",36.9038464,-76.0973611017246
-"313",310,"America East","New Hampshire","145 Main St, Durham, NH 03824","Lundholm Gymnasium ",3000,"145 Main St, Durham, NH 03824",43.1500375169331,-70.9628828013914
-"314",310,"Horizon","Oakland","569 Pioneer Dr, Rochester, MI, 48309","Athletics Center O'Rena ",3000,"569 Pioneer Dr, Rochester, MI, 48309",42.67393485,-83.2129430903011
-"315",310,"Atlantic Sun","Queens","Curry Arena ","Curry Arena ",3000,"Curry Arena ",35.188448,-80.834978
-"316",310,"Western Athletic","Tarleton St.","W Vanderbilt St, Stephenville, TX 76401","Wisdom Gymnasium ",3000,"W Vanderbilt St, Stephenville, TX 76401",32.2218371,-98.2087967
-"317",318,"Big Sky","Northern Colorado","Butler-Hancock Athletics Center, 270 Alles Dr D, Greeley, CO 80631","Bank of Colorado Arena ",2977,"Butler-Hancock Athletics Center, 270 Alles Dr D, Greeley, CO 80631",40.403113,-104.701531
-"318",319,"Patriot","American","Bender Arena ","Bender Arena ",2930,"Bender Arena ",38.93772115,-77.0899137185053
-"319",320,"Ivy","Brown","Pizzitola Sports Center, Providence, RI 02906","Pizzitola Sports Center ",2800,"Pizzitola Sports Center, Providence, RI 02906",41.826771,-71.40255
-"320",321,"Big West","UC Riverside","SRC Arena ","SRC Arena ",2750,"SRC Arena ",43.006199,-76.1950610836676
-"321",322,"Ivy","Columbia","Levien 3030 Broadway, New York, NY 10027Gymnasium ","Levien Gymnasium ",2700,"Levien 3030 Broadway, New York, NY 10027Gymnasium ",40.807537,-73.96257
-"322",322,"Mid-Eastern Athletic","Howard","Burr Arena ","Burr Arena ",2700,"Burr Arena ",41.7807503,-87.9275964423726
-"323",322,"SWAC","Mississippi Valley St.","Harrison Complex ","Harrison Complex ",2700,"Harrison Complex ",40.82251895,-74.2906751968412
-"324",325,"Patriot","Lafayette","Kirby Sports Center ","Kirby Sports Center ",2644,"Kirby Sports Center ",40.70170025,-75.2097929921393
-"325",326,"Metro Atlantic","Iona","Hynes A715 North Ave, New Rochelle, NY 10801thletics Center ","Hynes Athletics Center ",2611,"Hynes A715 North Ave, New Rochelle, NY 10801thletics Center ",40.926232,-73.78727
-"326",327,"America East","Bryant","1150 Douglas Turnpike, Smithfield, RI 02917","Chace Athletic Center ",2600,"1150 Douglas Turnpike, Smithfield, RI 02917",41.9184668,-71.5365125
-"327",328,"Colonial","Drexel","3301 Market St, Philadelphia, PA 19104","Daskalakis Athletic Center ",2532,"3301 Market St, Philadelphia, PA 19104",39.955694,-75.18963
-"328",328,"Ivy","Yale","Lee Amphitheater ","Lee Amphitheater ",2532,"Lee Amphitheater ",41.311533,-72.926084
-"329",330,"Summit","Denver","Hamilton Gymnasium ","Hamilton Gymnasium ",2500,"Hamilton Gymnasium ",39.6824183,-104.9623912
-"330",330,"American","Florida Atlantic","Arena, 777 Glades Rd, Boca Raton, FL 33431","Baldwin Arena ",2500,"Arena, 777 Glades Rd, Boca Raton, FL 33431",30.51902,-87.84665
-"331",330,"Metro Atlantic","Manhattan","Draddy Gymnasium ","Draddy Gymnasium ",2500,"Draddy Gymnasium ",40.8907375,-73.9002729795556
-"332",333,"Metro Atlantic","Niagara","Gallagher Center ","Gallagher Center ",2400,"Gallagher Center ",43.137111,-79.038072400824
-"333",334,"Big South","Presbyterian","5th Ave, Clinton, SC 29325","Templeton P.E. Center ",2300,"5th Ave, Clinton, SC 29325",34.464945,-81.866182
-"334",335,"Big West","Cal St. Northridge","Redwood Hall, Northridge, CA 91330","Premier America Credit Union Arena ",2200,"Redwood Hall, Northridge, CA 91330",34.2420106,-118.526236537414
-"335",335,"Northeast","Stonehill","Merkert Gymnasium ","Merkert Gymnasium ",2200,"Merkert Gymnasium ",42.0574641,-71.0788528873637
-"336",337,"Ivy","Harvard","45 N Harvard Street, Allston,MA, 02134","Lavietes Pavilion ",2195,"45 N Harvard Street, Allston,MA, 02134",42.3666450816327,-71.1254754285714
-"337",338,"Metro Atlantic","Canisius","Koessler Athletic Center ","Koessler Athletic Center ",2176,"Koessler Athletic Center ",42.9209664,-78.857513591338
-"338",339,"Ivy","Dartmouth","Dartmouth College, Berry Sports Center, 6 S Park St, Hanover, NH 03755","Leede Arena ",2100,"Dartmouth College, Berry Sports Center, 6 S Park St, Hanover, NH 03755",43.641979,-72.253738
-"339",339,"Patriot","Loyola MD","4501 N Charles St, Baltimore, MD 21210","Reitz Arena ",2100,"4501 N Charles St, Baltimore, MD 21210",39.3462906,-76.6202369
-"340",339,"Northeast","Sacred Heart","Pitt Center ","Pitt Center ",2100,"Pitt Center ",35.5956967,-77.5863078574856
-"341",339,"America East","UMass Lowell","Costello Athletic Center ","Costello Athletic Center ",2100,"Costello Athletic Center ",42.65554255,-71.3241430511317
-"342",339,"Northeast","Wagner","Spiro Sports Center ","Spiro Sports Center ",2100,"Spiro Sports Center ",40.615,-74.0958333
-"343",344,"Mid-Eastern Athletic","Delaware St.","Memorial Hall ","Memorial Hall ",2000,"Memorial Hall ",42.37600735,-71.1151116297103
-"344",344,"Northeast","Fairleigh Dickinson","60 E Main St, Bogota, NJ 07603","Bogota Savings Bank Center ",2000,"60 E Main St, Bogota, NJ 07603",40.877171113236,-74.0262127747467
-"345",344,"Southland","Incarnate Word","McDermott Convocation Center ","McDermott Convocation Center ",2000,"McDermott Convocation Center ",29.46808,-98.4693468941506
-"346",344,"Northeast","Le Moyne","Ted Grant Court ","Ted Grant Court ",2000,"Ted Grant Court ",43.048591,-76.087615
-"347",344,"Northeast","LIU","Steinberg Wellness Center ","Steinberg Wellness Center ",2000,"Steinberg Wellness Center ",40.69064385,-73.9792953404964
-"348",344,"Southland","Texas A&M Commerce","The Field House ","The Field House ",2000,"The Field House ",33.242663,-95.908171
-"349",350,"Patriot","Boston University","285 Babcock St, Boston, MA 02215 ","Case Gym ",1800,"285 Babcock St, Boston, MA 02215 ",42.3527669489796,-71.1211771836735
-"350",350,"Summit","St. Thomas","2115 Summit Ave, St Paul, MN 55105","Schoenecker Arena ",1800,"2115 Summit Ave, St Paul, MN 55105",44.9412471666667,-93.189403
-"351",352,"Patriot","Colgate","Cotterell Court ","Cotterell Court ",1782,"Cotterell Court ",37.681122,-121.872828
-"352",353,"Metro Atlantic","Rider","Alumni Gymnasium ","Alumni Gymnasium ",1650,"Alumni Gymnasium ",40.27886715,-74.7354012692293
-"353",354,"Summit","UMKC","Swinney Recreation Center ","Swinney Recreation Center ",1600,"Swinney Recreation Center ",39.03554535,-94.5787562409118
-"354",355,"Atlantic Sun","Jacksonville","Swisher Gymnasium, Jacksonville, FL 32211","Historic Swisher Gymnasium ",1500,"Swisher Gymnasium, Jacksonville, FL 32211",30.35025135,-81.6050056220238
-"355",356,"Northeast","Merrimack","Hammel Court ","Hammel Court ",1200,"Hammel Court ",34.700418,-82.288569
-"356",357,"Big Sky","Sacramento St.","The Nest ","The Nest ",1012,"The Nest ",38.561321,-121.42416
-"357",358,"Southland","Houston Christian","7502 Fondren Rd, Houston, TX 77074","Sharp Gym ",1000,"7502 Fondren Rd, Houston, TX 77074",29.6930202,-95.5147976
-"358",358,"America East","Maine","Memorial Gym ","Memorial Gym ",1000,"Memorial Gym ",44.903718,-68.66837
-"359",360,"Western Athletic","Seattle","Redhawk Center ","Redhawk Center ",999,"Redhawk Center ",47.607286,-122.313485789935
-"360",361,"Big South","Charleston Southern","Buccaneer Field House, North Charleston, SC 29406","Buccaneer Field House ",881,"Buccaneer Field House, North Charleston, SC 29406",32.97799,-80.07312
-"361",362,"Big South","USC Upstate","Hodge Center ","Hodge Center ",837,"Hodge Center ",34.997867,-81.969386
+"","X","RANK","Conference","School","Arena.Name","Arena","Capacity","address","lat","long"
+"1",1,1,"ACC","Syracuse","JMA Wireless Dome ","JMA Wireless Dome ",35642,"JMA Wireless Dome ",43.03628365,-76.1363603170983
+"2",2,2,"ACC","Louisville","KFC Yum! Center ","KFC Yum! Center ",22090,"KFC Yum! Center ",38.25769635,-85.753859924394
+"3",3,3,"ACC","North Carolina","Dean E. Smith Center ","Dean E. Smith Center ",21750,"Dean E. Smith Center ",35.89948365,-79.0438118682028
+"4",4,4,"SEC","Tennessee","Thompson Boling Arena ","Thompson Boling Arena ",21678,"Thompson Boling Arena ",35.9511756,-83.9250130483568
+"5",5,5,"Big East","Georgetown","Capital One Arena ","Capital One Arena ",20600,"Capital One Arena ",38.8981883,-77.0209377602636
+"6",6,6,"SEC","Kentucky","Rupp Arena ","Rupp Arena ",20500,"Rupp Arena ",38.04941235,-84.5023585654463
+"7",7,7,"Big East","St. John's","Madison Square Garden ","Madison Square Garden ",19812,"Madison Square Garden ",40.7505129,-73.9935159454515
+"8",8,8,"ACC","N.C. State","PNC Arena ","PNC Arena ",19700,"PNC Arena ",35.80339805,-78.7219165859909
+"9",9,9,"SEC","Arkansas","Bud Walton Arena ","Bud Walton Arena ",19200,"Bud Walton Arena ",36.06156975,-94.1781074593006
+"10",10,10,"Big Ten","Ohio St.","Value City Arena ","Value City Arena ",19049,"Value City Arena ",40.0076033,-83.0249566525742
+"11",11,11,"American","Memphis","FedExForum ","FedExForum ",18400,"FedExForum ",35.1382401,-90.050694577681
+"12",12,12,"Atlantic Sun","Bellarmine","Freedom Hall ","Freedom Hall ",18252,"Freedom Hall ",36.3244327,-82.3751979449904
+"13",13,13,"SEC","South Carolina","Colonial Life Arena ","Colonial Life Arena ",18000,"Colonial Life Arena ",33.99478385,-81.0373546200974
+"14",14,13,"Mountain West","UNLV","Thomas & Mack Center ","Thomas & Mack Center ",18000,"Thomas & Mack Center ",36.10492295,-115.144266201454
+"15",15,15,"Big 12","BYU","Marriott Center ","Marriott Center ",17978,"Marriott Center ",40.25386355,-111.649345561597
+"16",16,16,"Big Ten","Maryland","Xfinity Center ","Xfinity Center ",17950,"Xfinity Center ",38.99562385,-76.9413362170981
+"17",17,17,"Big East","Marquette","Fiserv Forum ","Fiserv Forum ",17600,"Fiserv Forum ",43.04500955,-87.9174871058158
+"18",18,18,"Big Ten","Indiana","Assembly Hall ","Assembly Hall ",17472,"Assembly Hall ",39.180698,-86.522251
+"19",19,19,"Big East","Creighton","CHI Health Center Omaha ","CHI Health Center Omaha ",17352,"CHI Health Center Omaha ",41.2636669,-95.9279384771368
+"20",20,20,"Big Ten","Wisconsin","Kohl Center ","Kohl Center ",17287,"Kohl Center ",43.06941395,-89.3968669343219
+"21",21,21,"Big 12","Kansas","Allen Fieldhouse ","Allen Fieldhouse ",16300,"Allen Fieldhouse ",38.9543125,-95.2528213736955
+"22",22,22,"Mountain West","Fresno St.","Save Mart Center ","Save Mart Center ",15596,"Save Mart Center ",36.809685,-119.7385104
+"23",23,23,"Big Ten","Illinois","State Farm Center ","State Farm Center ",15544,"State Farm Center ",40.0962914,-88.2358969015018
+"24",24,24,"Mountain West","New Mexico","The Pit ","The Pit ",15411,"The Pit ",35.0667282,-106.63219913411
+"25",25,25,"SEC","Alabama","Coleman Coliseum ","Coleman Coliseum ",15316,"Coleman Coliseum ",33.20270415,-87.5397128001474
+"26",26,26,"Big Ten","Penn St.","Bryce Jordan Center ","Bryce Jordan Center ",15261,"Bryce Jordan Center ",40.80857205,-77.8554679459386
+"27",27,27,"Big 12","Texas Tech","United Supermarkets Arena ","United Supermarkets Arena ",15098,"United Supermarkets Arena ",33.58125055,-101.886570991365
+"28",28,28,"SEC","Missouri","Mizzou Arena ","Mizzou Arena ",15061,"Mizzou Arena ",38.93248195,-92.3337338138537
+"29",29,29,"Big Ten","Iowa","Carver Hawkeye Arena ","Carver Hawkeye Arena ",15056,"Carver Hawkeye Arena ",41.6640099,-91.55453693653
+"30",30,30,"Big Ten","Nebraska","Pinnacle Bank Arena ","Pinnacle Bank Arena ",15000,"Pinnacle Bank Arena ",40.81786495,-96.7125279612046
+"31",31,30,"PAC 12","Utah","Huntsman Center ","Huntsman Center ",15000,"Huntsman Center ",40.7612203,-111.8381353
+"32",32,32,"Big Ten","Purdue","Mackey Arena ","Mackey Arena ",14804,"Mackey Arena ",40.43333495,-86.9161711527253
+"33",33,33,"Big Ten","Michigan St.","Breslin Center ","Breslin Center ",14797,"Breslin Center ",42.7281765,-84.492002220925
+"34",34,34,"PAC 12","Arizona","McKale Memorial Center ","McKale Memorial Center ",14688,"McKale Memorial Center ",32.23044805,-110.945994691776
+"35",35,35,"ACC","Wake Forest","Joel Coliseum ","Joel Coliseum ",14665,"Joel Coliseum ",36.1278331,-80.2578025121516
+"36",36,36,"Big Ten","Minnesota","Williams Arena ","Williams Arena ",14625,"Williams Arena ",44.9769776,-93.2282730026898
+"37",37,37,"ACC","Virginia","John Paul Jones Arena ","John Paul Jones Arena ",14623,"John Paul Jones Arena ",38.0459828,-78.5066437115523
+"38",38,38,"SEC","Vanderbilt","Memorial Gym ","Memorial Gym ",14316,"Memorial Gym ",36.144603,-86.80738
+"39",39,39,"Big 12","Iowa St.","Hilton Coliseum ","Hilton Coliseum ",14267,"Hilton Coliseum ",42.0210001,-93.6347685588887
+"40",40,40,"Big 12","West Virginia","WVU Coliseum ","WVU Coliseum ",14000,"WVU Coliseum ",39.64944585,-79.9814035593801
+"41",41,41,"PAC 12","UCLA","Pauley Pavilion ","Pauley Pavilion ",13800,"Pauley Pavilion ",34.07048685,-118.446776745086
+"42",42,42,"Big 12","Oklahoma St.","Gallagher Iba Arena ","Gallagher Iba Arena ",13611,"Gallagher Iba Arena ",36.1257346,-97.0651528615191
+"43",43,43,"Atlantic 10","Dayton","University of Dayton Arena ","University of Dayton Arena ",13455,"University of Dayton Arena ",39.73552455,-84.1998362736831
+"44",44,44,"SEC","LSU","Maravich Assembly Center ","Maravich Assembly Center ",13215,"Maravich Assembly Center ",30.4142729,-91.1835309489903
+"45",45,45,"MAC","Ohio","Convocation Center ","Convocation Center ",13080,"Convocation Center ",42.2542969,-83.647366129931
+"46",46,46,"SEC","Texas A&M","Reed Arena ","Reed Arena ",12989,"Reed Arena ",30.60568315,-96.3462954986893
+"47",47,47,"Big Ten","Michigan","Crisler Center ","Crisler Center ",12707,"Crisler Center ",42.26504135,-83.7466711498971
+"48",48,48,"PAC 12","Oregon","Knight Arena ","Knight Arena ",12541,"Knight Arena ",44.0448264,-123.066368375633
+"49",49,49,"ACC","Pittsburgh","Petersen Events Center ","Petersen Events Center ",12508,"Petersen Events Center ",40.44400025,-79.9621192707584
+"50",50,50,"CUSA","New Mexico St.","Pan American Center ","Pan American Center ",12482,"Pan American Center ",32.28399895,-106.742227374762
+"51",51,51,"Mountain West","Boise St.","ExtraMile Arena ","ExtraMile Arena ",12480,"ExtraMile Arena ",43.60356945,-116.198947558299
+"52",52,52,"Mountain West","San Diego St.","Viejas Arena ","Viejas Arena ",12414,"Viejas Arena ",32.77381085,-117.074540388069
+"53",53,53,"Big East","Providence","Amica Mutual Pavilion ","Amica Mutual Pavilion ",12410,"Amica Mutual Pavilion ",41.8236194,-71.4180895693439
+"54",54,54,"Sun Belt","Louisiana","Cajundome ","Cajundome ",12362,"Cajundome ",30.2171455,-92.0398434
+"55",55,55,"ACC","Florida St.","Donald L. Tucker Center ","Donald L. Tucker Center ",12100,"Donald L. Tucker Center ",30.43779185,-84.286662940797
+"56",56,56,"Big 12","Cincinnati","Fifth Third Arena ","Fifth Third Arena ",12012,"Fifth Third Arena ",39.1311038,-84.5141164780367
+"57",57,57,"Horizon","Purdue Fort Wayne","Allen County War Memorial Coliseum ","Allen County War Memorial Coliseum ",12000,"Allen County War Memorial Coliseum ",41.11542505,-85.1242023857866
+"58",58,58,"CUSA","UTEP","Don Haskins Center ","Don Haskins Center ",11892,"Don Haskins Center ",31.7776129,-106.505691663767
+"59",59,59,"PAC 12","California","Haas Pavilion ","Haas Pavilion ",11877,"Haas Pavilion ",37.86939865,-122.262207935716
+"60",60,60,"PAC 12","Washington St.","Beasley Coliseum ","Beasley Coliseum ",11671,"Beasley Coliseum ",46.73524395,-117.158112646419
+"61",61,61,"Big 12","Oklahoma","Lloyd Noble Center ","Lloyd Noble Center ",11562,"Lloyd Noble Center ",35.18701985,-97.4443140044189
+"62",62,62,"Mountain West","Nevada","Lawlor Events Center ","Lawlor Events Center ",11536,"Lawlor Events Center ",39.5450739,-119.818300949546
+"63",63,63,"CUSA","Middle Tennessee","Murphy Center ","Murphy Center ",11520,"Murphy Center ",35.8486,-86.3669
+"64",64,64,"MAC","Ball St.","Worthen Arena ","Worthen Arena ",11500,"Worthen Arena ",40.2070497,-85.4061529368958
+"65",65,64,"Big Sky","Weber St.","Dee Events Center ","Dee Events Center ",11500,"Dee Events Center ",41.1823379,-111.9449645
+"66",66,66,"Mountain West","Wyoming","Arena Auditorium ","Arena Auditorium ",11445,"Arena Auditorium ",41.3132737,-105.569288062895
+"67",67,67,"PAC 12","Colorado","CU Events Center ","CU Events Center ",11064,"CU Events Center ",40.00468695,-105.260606567693
+"68",68,68,"Missouri Valley","Bradley","Carver Arena ","Carver Arena ",11060,"Carver Arena ",40.69186135,-89.5935531631601
+"69",69,69,"Big 12","Kansas St.","Bramlage Coliseum ","Bramlage Coliseum ",11000,"Bramlage Coliseum ",39.20031835,-96.5938455611737
+"70",70,69,"Missouri Valley","Missouri St.","685 S John Q Hammons Pkwy, Springfield, MO 65807","Great Southern Bank Arena ",11000,"685 S John Q Hammons Pkwy, Springfield, MO 65807",37.20207805,-93.2830663164255
+"71",71,71,"SoCon","Chattanooga","McKenzie Arena ","McKenzie Arena ",10995,"McKenzie Arena ",35.0504026,-85.300943936378
+"72",72,72,"Horizon","Milwaukee","UWM Panther Arena ","UWM Panther Arena ",10783,"UWM Panther Arena ",43.0422882,-87.9169519898426
+"73",73,73,"Big 12","Texas","Moody Center ","Moody Center ",10763,"Moody Center ",30.28093665,-97.7306522348233
+"74",74,74,"PAC 12","Arizona St.","Desert Financial Arena ","Desert Financial Arena ",10754,"Desert Financial Arena ",33.42450785,-111.931009979692
+"75",75,75,"Atlantic 10","Saint Louis","Chaifetz Arena ","Chaifetz Arena ",10600,"Chaifetz Arena ",38.63252555,-90.2281768892448
+"76",76,76,"SEC","Mississippi St.","Humphrey Coliseum ","Humphrey Coliseum ",10575,"Humphrey Coliseum ",33.4614945,-88.7939804020958
+"77",77,76,"Summit","Oral Roberts","Mabee Center ","Mabee Center ",10575,"Mabee Center ",36.04812005,-95.9556507296253
+"78",78,78,"SEC","Georgia","Stegeman Coliseum ","Stegeman Coliseum ",10523,"Stegeman Coliseum ",33.9427717,-83.3781356622891
+"79",79,79,"American","Wichita St.","Charles Koch Arena ","Charles Koch Arena ",10506,"Charles Koch Arena ",37.72182385,-97.2974249790007
+"80",80,80,"American","North Texas","The Super Pit ","The Super Pit ",10500,"The Super Pit ",33.2087178,-97.1540627728197
+"81",81,80,"Ohio Valley","Tennessee St.","Gentry Center ","Gentry Center ",10500,"Gentry Center ",32.73946505,-96.9980432670797
+"82",82,82,"Big East","Seton Hall","Prudential Center ","Prudential Center ",10481,"Prudential Center ",40.7336045,-74.1710630983405
+"83",83,83,"Horizon","Wright St.","Nutter Center ","Nutter Center ",10449,"Nutter Center ",39.7821311,-84.0523263415521
+"84",84,84,"American","South Florida","Yuengling Center ","Yuengling Center ",10411,"Yuengling Center ",28.05924435,-82.4066241144749
+"85",85,85,"Big East","DePaul","Wintrust Arena ","Wintrust Arena ",10387,"Wintrust Arena ",41.8536992,-87.6213549065421
+"86",86,87,"Mountain West","Utah St.","Dee Glen Smith Spectrum ","Dee Glen Smith Spectrum ",10270,"Dee Glen Smith Spectrum ",41.7476285,-111.812123834605
+"87",87,88,"PAC 12","USC","Galen Center ","Galen Center ",10258,"Galen Center ",34.02075295,-118.279796528007
+"88",88,89,"Big East","Xavier","Cintas Center ","Cintas Center ",10224,"Cintas Center ",39.15031195,-84.4717983291354
+"89",89,90,"American","Temple","1776 N Broad St, Philadelphia, PA 19121","The Liacouras Center ",10206,"1776 N Broad St, Philadelphia, PA 19121",39.9798139,-75.1585825304769
+"90",90,91,"Missouri Valley","Indiana St.","Hulman Center ","Hulman Center ",10200,"Hulman Center ",39.4685257,-87.4051441342561
+"91",91,92,"Big East","Connecticut","Gampel Pavilion ","Gampel Pavilion ",10167,"Gampel Pavilion ",41.8052875,-72.2544020222615
+"92",92,93,"SEC","Florida","Exactech Arena ","Exactech Arena ",10151,"Exactech Arena ",29.6494189,-82.3510890665513
+"93",93,94,"Southland","Lamar","Montagne Center ","Montagne Center ",10080,"Montagne Center ",30.0440591,-94.07072125
+"94",94,95,"Sun Belt","Arkansas St.","First National Bank Arena ","First National Bank Arena ",10038,"First National Bank Arena ",35.84535655,-90.670419011854
+"95",95,96,"Sun Belt","South Alabama","Mitchell Center ","Mitchell Center ",10000,"Mitchell Center ",30.69226205,-88.1796888798321
+"96",96,96,"Big 12","UCF","Addition Financial Arena ","Addition Financial Arena ",10000,"Addition Financial Arena ",28.60733375,-81.1972925861959
+"97",97,98,"Horizon","Green Bay","Resch Center ","Resch Center ",9729,"Resch Center ",44.4994911,-88.0550423257152
+"98",98,99,"PAC 12","Oregon St.","Gill Coliseum ","Gill Coliseum ",9604,"Gill Coliseum ",44.5612668,-123.280579915635
+"99",99,100,"Missouri Valley","Illinois St.","CEFCU Arena ","CEFCU Arena ",9600,"CEFCU Arena ",40.51068395,-88.9987906829692
+"100",100,101,"SEC","Mississippi","762 All American Drive, University, MS 38677","The Pavilion at Ole Miss ",9500,"762 All American Drive, University, MS 38677",34.362962,-89.535854
+"101",101,102,"Atlantic 10","Massachusetts","Mullins Center ","Mullins Center ",9493,"Mullins Center ",42.3895333,-72.5334459869138
+"102",102,103,"Horizon","Northern Kentucky","Truist Arena ","Truist Arena ",9400,"Truist Arena ",39.0320132,-84.4591054470009
+"103",103,104,"ACC","Duke","Cameron Indoor Stadium ","Cameron Indoor Stadium ",9314,"Cameron Indoor Stadium ",35.9974496,-78.9422669036346
+"104",104,105,"PAC 12","Washington","Alaska Airlines Arena ","Alaska Airlines Arena ",9268,"Alaska Airlines Arena ",47.65217845,-122.302124801148
+"105",105,106,"ACC","Notre Dame","Joyce Center ","Joyce Center ",9149,"Joyce Center ",42.4079403,-71.1163782454248
+"106",106,107,"SEC","Auburn","Neville Arena ","Neville Arena ",9121,"Neville Arena ",32.602669,-85.492537
+"107",107,108,"American","Charlotte","Barnhardt Student Activity Center, 9201 University City Blvd #202, Charlotte, NC 28223","Halton Arena ",9105,"Barnhardt Student Activity Center, 9201 University City Blvd #202, Charlotte, NC 28223",35.28439,-80.72945
+"108",108,109,"Big East","Butler","Hinkle Fieldhouse ","Hinkle Fieldhouse ",9100,"Hinkle Fieldhouse ",39.8435958,-86.1674277308938
+"109",109,109,"MAC","Northern Illinois","Convocation Center ","Convocation Center ",9100,"Convocation Center ",42.2542969,-83.647366129931
+"110",110,111,"ACC","Clemson","Littlejohn Coliseum ","Littlejohn Coliseum ",9000,"Littlejohn Coliseum ",34.68018735,-82.846473041737
+"111",111,111,"SWAC","Florida A&M","Lawson Center ","Lawson Center ",9000,"Lawson Center ",30.424264,-84.290524
+"112",112,113,"American","SMU","Moody Coliseum ","Moody Coliseum ",8998,"Moody Coliseum ",32.8403971,-96.7806817290028
+"113",113,114,"Missouri Valley","Evansville","Ford Center ","Ford Center ",8930,"Ford Center ",37.972297,-87.5679482175282
+"114",114,115,"ACC","Virginia Tech","Cassell Coliseum ","Cassell Coliseum ",8925,"Cassell Coliseum ",37.22250695,-80.418912108596
+"115",115,116,"Southland","New Orleans","Lakefront Arena ","Lakefront Arena ",8785,"Lakefront Arena ",30.03010495,-90.0505066920165
+"116",116,117,"MAC","Eastern Michigan","799 N Hewitt Rd, Ypsilanti, MI 48197","George Gervin GameAbove Center ",8754,"799 N Hewitt Rd, Ypsilanti, MI 48197",42.25098,-83.647736
+"117",117,118,"Mountain West","Colorado St.","Moby Arena ","Moby Arena ",8745,"Moby Arena ",40.57568405,-105.093216566135
+"118",118,119,"Ivy","Penn","The Palestra ","The Palestra ",8722,"The Palestra ",39.9514018,-75.1886361741601
+"119",119,120,"ACC","Boston College","Conte Forum ","Conte Forum ",8606,"Conte Forum ",42.3351475,-71.1677658832287
+"120",120,121,"ACC","Georgia Tech","McCamish Pavilion ","McCamish Pavilion ",8600,"McCamish Pavilion ",33.78060245,-84.3927616064607
+"121",121,121,"Missouri Valley","Murray St.","CFSB Center ","CFSB Center ",8600,"CFSB Center ",36.62266785,-88.3198817340516
+"122",122,121,"Colonial","William & Mary","Kaplan Arena ","Kaplan Arena ",8600,"Kaplan Arena ",37.27349425,-76.7197210586418
+"123",123,124,"Horizon","Cleveland St.","Wolstein Center ","Wolstein Center ",8500,"Wolstein Center ",41.49923375,-81.6766496152172
+"124",124,124,"Sun Belt","James Madison","Atlantic Union Bank Center ","Atlantic Union Bank Center ",8500,"Atlantic Union Bank Center ",38.43054375,-78.8595716848321
+"125",125,124,"Southland","Texas A&M Corpus Chris","American Bank Center ","American Bank Center ",8500,"American Bank Center ",27.80722875,-97.3934530379944
+"126",126,124,"American","UAB","Bartow Arena ","Bartow Arena ",8500,"Bartow Arena ",33.502124,-86.8092439169453
+"127",127,128,"Sun Belt","Old Dominion","Chartway Arena ","Chartway Arena ",8472,"Chartway Arena ",36.88413485,-76.3013785224339
+"128",128,129,"American","Tulsa","Reynolds Center ","Reynolds Center ",8355,"Reynolds Center ",36.1490016,-95.9421785037874
+"129",129,130,"Missouri Valley","Southern Illinois","Banterra Center ","Banterra Center ",8339,"Banterra Center ",37.7082751,-89.218717641296
+"130",130,131,"Sun Belt","Appalachian St.","Holmes Center ","Holmes Center ",8325,"Holmes Center ",36.21071345,-81.6758730151542
+"131",131,132,"Horizon","Detroit Mercy","Calihan Hall ","Calihan Hall ",8295,"Calihan Hall ",42.41434335,-83.1359254242648
+"132",132,133,"SWAC","Texas Southern","3000 Wheeler Ave, Houston, TX 77004","Health & PE Arena ",8100,"3000 Wheeler Ave, Houston, TX 77004",29.7190741,-95.3506895
+"133",133,134,"Sun Belt","Southern Miss","Reed Green Coliseum ","Reed Green Coliseum ",8095,"Reed Green Coliseum ",31.33099645,-89.3379338060356
+"134",134,135,"American","East Carolina","200 Ficklen Dr, Greenville, NC 27858","Williams Arena at Minges Coliseum ",8000,"200 Ficklen Dr, Greenville, NC 27858",35.5989658,-77.3677044
+"135",135,135,"Big Sky","Idaho St.","Holt Arena ","Holt Arena ",8000,"Holt Arena ",42.86998575,-112.428558929277
+"136",136,135,"Missouri Valley","Illinois Chicago","Credit Union 1 Arena ","Credit Union 1 Arena ",8000,"Credit Union 1 Arena ",41.8746993,-87.6561358171872
+"137",137,135,"SWAC","Jackson St.","Williams Center ","Williams Center ",8000,"Williams Center ",32.299722,-90.211874
+"138",138,135,"CUSA","Louisiana Tech","Thomas Assembly Center ","Thomas Assembly Center ",8000,"Thomas Assembly Center ",32.5320734,-92.6584854584362
+"139",139,135,"Big Ten","Rutgers","83 Rockafeller Rd, Piscataway, NJ 08854","Jersey Mike's Arena ",8000,"83 Rockafeller Rd, Piscataway, NJ 08854",40.5251962,-74.4413560279909
+"140",140,141,"ACC","Miami FL","Watsco Center ","Watsco Center ",7972,"Watsco Center ",25.71531895,-80.2793698321104
+"141",141,142,"Summit","Nebraska Omaha","Baxter Arena ","Baxter Arena ",7898,"Baxter Arena ",41.23611645,-96.0130108709843
+"142",142,143,"Atlantic 10","George Mason","4500 Patriot Cir, Fairfax, VA 22030","EagleBank Arena ",7860,"4500 Patriot Cir, Fairfax, VA 22030",38.82686055,-77.3096753199218
+"143",143,144,"SoCon","Western Carolina","Ramsey Center ","Ramsey Center ",7826,"Ramsey Center ",33.9366887,-83.3703716
+"144",144,145,"Atlantic 10","Rhode Island","Ryan Center ","Ryan Center ",7657,"Ryan Center ",41.48776885,-71.5358428658674
+"145",145,146,"Atlantic 10","VCU","Siegel Center ","Siegel Center ",7637,"Siegel Center ",37.55287535,-77.4528272220386
+"146",146,147,"SoCon","UNC Greensboro","Greensboro Coliseum ","Greensboro Coliseum ",7617,"Greensboro Coliseum ",36.05155955,-79.8229972476459
+"147",147,148,"CUSA","Western Kentucky","1605 Avenue of Champions, Bowling Green, KY 42101","E.A. Diddle Arena ",7523,"1605 Avenue of Champions, Bowling Green, KY 42101",36.9830722,-86.4599698
+"148",148,149,"Big 12","Baylor","Foster Pavilion ","Foster Pavilion ",7500,"Foster Pavilion ",31.547865,-97.105676
+"149",149,149,"Southland","Southeastern Louisiana","University Center ","University Center ",7500,"University Center ",30.52015005,-90.4731240503526
+"150",150,149,"SWAC","Southern","Clark Activity Center ","Clark Activity Center ",7500,"Clark Activity Center ",30.521954,-91.185513
+"151",151,149,"Ohio Valley","Tennessee Tech","Eblen Center ","Eblen Center ",7500,"Eblen Center ",36.17841905,-85.5098220879035
+"152",152,149,"Western Athletic","Utah Valley","UCCU Center ","UCCU Center ",7500,"UCCU Center ",40.27866555,-111.717059568971
+"153",153,154,"SWAC","Alabama St.","Dunn-Oliver Acadome ","Dunn-Oliver Acadome ",7400,"Dunn-Oliver Acadome ",32.36184355,-86.2931797968577
+"154",154,155,"PAC 12","Stanford","Maples Pavilion ","Maples Pavilion ",7329,"Maples Pavilion ",37.429523,-122.160578939481
+"155",155,156,"Big Sky","Montana","University of Montana, Missoula, MT 59812","Dahlberg Arena ",7322,"University of Montana, Missoula, MT 59812",46.8541841,-113.965528302663
+"156",156,157,"Sun Belt","Georgia St.","455 Capitol Ave SE, Atlanta, GA 30312","GSU Convocation Center ",7300,"455 Capitol Ave SE, Atlanta, GA 30312",33.7425348,-84.3886842006416
+"157",157,157,"MAC","Toledo","Savage Arena ","Savage Arena ",7300,"Savage Arena ",41.6601307,-83.6100354130828
+"158",158,159,"Missouri Valley","Northern Iowa","McLeod Center ","McLeod Center ",7293,"McLeod Center ",42.51438265,-92.4672608509135
+"159",159,160,"Western Athletic","Stephen F. Austin","Johnson Coliseum ","Johnson Coliseum ",7203,"Johnson Coliseum ",30.71290525,-95.5462087030306
+"160",160,161,"Atlantic 10","Richmond","Robins Center ","Robins Center ",7201,"Robins Center ",37.58066725,-77.5388907319783
+"161",161,162,"Colonial","Hampton","Hampton Convocation Center ","Hampton Convocation Center ",7200,"Hampton Convocation Center ",37.01985375,-76.3311392270882
+"162",162,162,"Sun Belt","Texas St.","Strahan Arena ","Strahan Arena ",7200,"Strahan Arena ",29.8885339,-97.9324629778609
+"163",163,164,"Missouri Valley","Drake","Knapp Center ","Knapp Center ",7152,"Knapp Center ",41.60477805,-93.6522633052631
+"164",164,165,"Metro Atlantic","Siena","MVP Arena ","MVP Arena ",7146,"MVP Arena ",42.6484107,-73.7547596297671
+"165",165,166,"Big West","UC Davis","The Pavilion ","The Pavilion ",7100,"The Pavilion ",38.541879,-121.759476
+"166",166,167,"Big Ten","Northwestern","Welsh-Ryan Arena ","Welsh-Ryan Arena ",7039,"Welsh-Ryan Arena ",42.0668689,-87.6924404519104
+"167",167,168,"Big 12","Houston","Fertitta Center ","Fertitta Center ",7035,"Fertitta Center ",29.7247367,-95.3469609779803
+"168",168,169,"SWAC","Alcorn St.","Whitney Complex ","Whitney Complex ",7000,"Whitney Complex ",31.8731507,-91.1332301558736
+"169",169,169,"Western Athletic","Grand Canyon","GCU Arena ","GCU Arena ",7000,"GCU Arena ",33.5101486,-112.1289216
+"170",170,169,"Sun Belt","Louisiana Monroe","4099 Northeast Dr, Monroe, LA 71203","Fant-Ewing Coliseum ",7000,"4099 Northeast Dr, Monroe, LA 71203",32.53103365,-92.0693953269008
+"171",171,169,"Ohio Valley","Southeast Missouri St.","Show Me Center ","Show Me Center ",7000,"Show Me Center ",37.32011465,-89.5274887833949
+"172",172,169,"Western Athletic","UT Arlington","College Park Center ","College Park Center ",7000,"College Park Center ",32.730505,-97.1080740192308
+"173",173,174,"Ivy","Princeton","Jadwin Gymnasium ","Jadwin Gymnasium ",6854,"Jadwin Gymnasium ",40.34340855,-74.6486474422414
+"174",174,175,"Horizon","IUPUI","1202 E 38th St, Indianapolis, IN 46205","Indiana Farmers Coliseum ",6800,"1202 E 38th St, Indianapolis, IN 46205",39.82887885,-86.12957235
+"175",175,175,"Big 12","TCU","Schollmaier Arena ","Schollmaier Arena ",6800,"Schollmaier Arena ",32.70883025,-97.3666972966431
+"176",176,177,"Colonial","North Carolina A&T","405 N Benbow Rd, Greensboro, NC 27411","Corbett Sports Center ",6700,"405 N Benbow Rd, Greensboro, NC 27411",36.0773841,-79.7681522
+"177",177,178,"SoCon","East Tennessee St.","1320 Pactolas Rd, Johnson City, TN 37604","Freedom Hall Civic Center ",6500,"1320 Pactolas Rd, Johnson City, TN 37604",36.323411,-82.3775107
+"178",178,178,"Atlantic Sun","Eastern Kentucky","641 Eastern Bypass, Richmond, KY 40475","Baptist Health Arena ",6500,"641 Eastern Bypass, Richmond, KY 40475",37.736967,-84.270156
+"179",179,178,"Ohio Valley","Morehead St.","Johnson Arena ","Johnson Arena ",6500,"Johnson Arena ",41.62229295,-91.5474593757027
+"180",180,178,"Summit","South Dakota St.","Frost Arena ","Frost Arena ",6500,"Frost Arena ",44.318012,-96.7792611532732
+"181",181,178,"Big East","Villanova","800 E Lancaster Ave, Villanova, PA 19085","Finneran Pavilion ",6500,"800 E Lancaster Ave, Villanova, PA 19085",40.0359804,-75.3433070018965
+"182",182,183,"MAC","Miami OH","Millett Hall ","Millett Hall ",6400,"Millett Hall ",39.78367745,-84.0626464944208
+"183",183,183,"Horizon","Youngstown St.","Beeghly Center ","Beeghly Center ",6400,"Beeghly Center ",41.1082465,-80.6490136065898
+"184",184,185,"MAC","Kent St.","Memorial Athletic & Convocation Center ","Memorial Athletic & Convocation Center ",6327,"Memorial Athletic & Convocation Center ",41.1481862,-81.3440024878124
+"185",185,186,"Mid-Eastern Athletic","Norfolk St.","Echols Hall ","Echols Hall ",6191,"Echols Hall ",36.84798105,-76.2581610712755
+"186",186,187,"West Coast","Pacific","Spanos Center ","Spanos Center ",6150,"Spanos Center ",37.9766716,-121.315117010087
+"187",187,188,"CUSA","Sam Houston St.","Johnson Coliseum ","Johnson Coliseum ",6110,"Johnson Coliseum ",30.71290525,-95.5462087030306
+"188",188,189,"MAC","Buffalo","Alumni Arena ","Alumni Arena ",6100,"Alumni Arena ",43.00012485,-78.7812162798177
+"189",189,189,"Colonial","UNC Wilmington","Trask Coliseum ","Trask Coliseum ",6100,"Trask Coliseum ",34.22495055,-77.8783465923032
+"190",190,189,"Big South","Winthrop","Winthrop Coliseum ","Winthrop Coliseum ",6100,"Winthrop Coliseum ",34.9481423,-81.0149230965024
+"191",191,192,"SWAC","Alabama A&M","4200 Memorial Parkway Huntsville, AL","Alabama A&M Events Center ",6000,"4200 Memorial Parkway Huntsville, AL",31.311319,-85.712418
+"192",192,192,"West Coast","Gonzaga","McCarthey Athletic Center ","McCarthey Athletic Center ",6000,"McCarthey Athletic Center ",47.6653904,-117.3991159
+"193",193,192,"Summit","South Dakota","Sanford Coyote Sports Center ","Sanford Coyote Sports Center ",6000,"Sanford Coyote Sports Center ",42.7900965,-96.9278775359555
+"194",194,192,"SoCon","The Citadel","McAlister Field House ","McAlister Field House ",6000,"McAlister Field House ",32.7985622,-79.9625348438532
+"195",195,192,"Big West","UC Santa Barbara","Thunderdome ","Thunderdome ",6000,"Thunderdome ",34.413885,-119.845562
+"196",196,197,"Mountain West","Air Force","Clune Arena ","Clune Arena ",5843,"Clune Arena ",39.01407375,-104.883612569002
+"197",197,198,"Atlantic Sun","North Florida","UNF Arena ","UNF Arena ",5800,"UNF Arena ",30.27214975,-81.5080994977793
+"198",198,199,"Patriot","Navy","Alumni Hall ","Alumni Hall ",5710,"Alumni Hall ",38.98442995,-76.4878045091009
+"199",199,200,"Summit","North Dakota St.","Scheels Center ","Scheels Center ",5644,"Scheels Center ",41.5709384,-93.8034437727939
+"200",200,201,"Patriot","Lehigh","Stabler Arena ","Stabler Arena ",5600,"Stabler Arena ",40.5852911,-75.3573984206938
+"201",201,201,"Ohio Valley","Little Rock","Stephens Center ","Stephens Center ",5600,"Stephens Center ",34.724273,-81.341018
+"202",202,203,"MAC","Akron","Rhodes Arena ","Rhodes Arena ",5500,"Rhodes Arena ",41.0758937,-81.5086450368824
+"203",203,203,"Atlantic Sun","Austin Peay","F&M Bank Arena ","F&M Bank Arena ",5500,"F&M Bank Arena ",36.534643,-87.354921
+"204",204,203,"Atlantic Sun","Central Arkansas","Farris Center ","Farris Center ",5500,"Farris Center ",35.0818116,-92.4595668133309
+"205",205,203,"Mid-Eastern Athletic","Maryland Eastern Shore","University System of Maryland, 300 Metzerott Rd, Adelphi, MD 20783","Hytche Athletic Center ",5500,"University System of Maryland, 300 Metzerott Rd, Adelphi, MD 20783",39.13771,-76.5432
+"206",206,203,"Sun Belt","Troy","Trojan Arena ","Trojan Arena ",5500,"Trojan Arena ",31.802287,-85.952433580008
+"207",207,208,"Atlantic 10","St. Bonaventure","Reilly Center ","Reilly Center ",5480,"Reilly Center ",42.079501,-78.484879
+"208",208,209,"Sun Belt","Marshall","Henderson Center ","Henderson Center ",5467,"Henderson Center ",40.1135241,-75.3765412349203
+"209",209,210,"MAC","Western Michigan","University Arena ","University Arena ",5421,"University Arena ",42.2833436,-85.6085860448547
+"210",210,211,"MAC","Central Michigan","McGuirk Arena ","McGuirk Arena ",5300,"McGuirk Arena ",43.5815664,-84.774189
+"211",211,211,"Ohio Valley","Eastern Illinois","2150 4th St #2046, Charleston, IL 61920","Lantz Arena ",5300,"2150 4th St #2046, Charleston, IL 61920",40.11602,-88.194771
+"212",212,211,"Western Athletic","Southern Utah","America First Event Center ","America First Event Center ",5300,"America First Event Center ",37.675507,-113.072893
+"213",213,214,"Atlantic 10","Davidson","Belk Arena ","Belk Arena ",5223,"Belk Arena ",35.4992414,-80.840296
+"214",214,215,"American","Rice","Tudor Fieldhouse ","Tudor Fieldhouse ",5208,"Tudor Fieldhouse ",29.71498295,-95.4039871253966
+"215",215,216,"Colonial","Towson","SECU Arena ","SECU Arena ",5200,"SECU Arena ",39.3873809,-76.6170992728389
+"216",216,217,"America East","Binghamton","Events Center ","Events Center ",5142,"Events Center ",42.0992,-75.9115
+"217",217,218,"Ohio Valley","Western Illinois","Western Hall ","Western Hall ",5139,"Western Hall ",40.4717635,-90.6851161
+"218",218,219,"Colonial","Charleston","TD Arena ","TD Arena ",5100,"TD Arena ",32.7834,-79.937
+"219",219,219,"Colonial","Elon","Schar Center ","Schar Center ",5100,"Schar Center ",36.1080901,-79.5106843977845
+"220",220,219,"West Coast","San Diego","Jenny Craig Pavilion ","Jenny Craig Pavilion ",5100,"Jenny Craig Pavilion ",32.77446015,-117.183716994146
+"221",221,222,"Colonial","Northeastern","Matthews Arena ","Matthews Arena ",5065,"Matthews Arena ",42.34132975,-71.0843149755329
+"222",222,223,"Western Athletic","Cal Baptist","8432 Magnolia Ave, Riverside, CA 92504","Fowler Events Center ",5050,"8432 Magnolia Ave, Riverside, CA 92504",33.9283239,-117.425920620585
+"223",223,224,"Colonial","Hofstra","Mack Sports Complex ","Mack Sports Complex ",5045,"Mack Sports Complex ",40.7197699,-73.5968069474636
+"224",224,225,"Patriot","Army","600 Thayer Rd, West Point, NY 10996l Arena ","Christl Arena ",5043,"600 Thayer Rd, West Point, NY 10996l Arena ",41.40118,-73.972321
+"225",225,226,"SoCon","VMI","Cameron Hall ","Cameron Hall ",5029,"Cameron Hall ",37.7885154,-79.4366007254767
+"226",226,227,"Atlantic Sun","Lipscomb","Allen Arena ","Allen Arena ",5028,"Allen Arena ",36.10376485,-86.7989115638678
+"227",227,228,"Missouri Valley","Belmont","Curb Event Center ","Curb Event Center ",5000,"Curb Event Center ",36.1325887,-86.7944779108289
+"228",228,228,"Independent","Chicago St.","Jones Convocation Center ","Jones Convocation Center ",5000,"Jones Convocation Center ",41.71654825,-87.6085078294937
+"229",229,228,"Colonial","Delaware","Bob Carpenter Center ","Bob Carpenter Center ",5000,"Bob Carpenter Center ",39.66043895,-75.7487314271395
+"230",230,228,"Big Sky","Eastern Washington","Reese Court ","Reese Court ",5000,"Reese Court ",40.1349973,-74.3817125
+"231",231,228,"CUSA","FIU","Ocean Bank Convocation Center ","Ocean Bank Convocation Center ",5000,"Ocean Bank Convocation Center ",25.75693945,-80.3798025756902
+"232",232,228,"SoCon","Furman","Timmons Arena ","Timmons Arena ",5000,"Timmons Arena ",34.91805805,-82.4373228507259
+"233",233,228,"SoCon","Samford","Hanna Center ","Hanna Center ",5000,"Hanna Center ",38.3199138,-122.5063706
+"234",234,228,"Mountain West","San Jose St.","290 S 7th St, San Jose, CA 95112","Provident Credit Union Event Center ",5000,"290 S 7th St, San Jose, CA 95112",37.3338110883243,-121.880127586878
+"235",235,228,"Big West","UC Irvine","Bren Events Center ","Bren Events Center ",5000,"Bren Events Center ",33.6494575,-117.846905745866
+"236",236,228,"Missouri Valley","Valparaiso","Athletics Recreation Center ","Athletics Recreation Center ",5000,"Athletics Recreation Center ",41.46424985,-87.0483403431294
+"237",237,238,"West Coast","Portland","Chiles Center ","Chiles Center ",4854,"Chiles Center ",45.5750984,-122.728532825799
+"238",238,239,"Ohio Valley","Southern Indiana","Screaming Eagles Arena ","Screaming Eagles Arena ",4800,"Screaming Eagles Arena ",37.9620078,-87.6747080599229
+"239",239,240,"Western Athletic","Utah Tech","Burns Arena ","Burns Arena ",4779,"Burns Arena ",37.1015093,-113.56703439944
+"240",240,241,"America East","UMBC","Chesapeake Employers Insurance Arena ","Chesapeake Employers Insurance Arena ",4753,"Chesapeake Employers Insurance Arena ",39.25194725,-76.7070399375672
+"241",241,242,"America East","Albany","Broadview Center ","Broadview Center ",4538,"Broadview Center ",42.6821683,-73.8282597325326
+"242",242,243,"SWAC","Arkansas Pine Bluff","1542-1598 L A Prexy Davis Dr, Pine Bluff, AR 71601","Clemmons Arena ",4500,"1542-1598 L A Prexy Davis Dr, Pine Bluff, AR 71601",34.22159,-92.002
+"243",243,243,"Atlantic Sun","Florida Gulf Coast","Alico Arena ","Alico Arena ",4500,"Alico Arena ",26.47108735,-81.7645662536439
+"244",244,243,"Big Sky","Montana St.","1 Bobcat Cir, Bozeman, MT 59717","Worthington Arena ",4500,"1 Bobcat Cir, Bozeman, MT 59717",45.667809,-111.04763
+"245",245,243,"Mid-Eastern Athletic","Morgan St.","Hill Field House ","Hill Field House ",4500,"Hill Field House ",39.3422775,-76.5850611893365
+"246",246,243,"West Coast","Santa Clara","Leavey Center ","Leavey Center ",4500,"Leavey Center ",38.9099879,-77.074906273594
+"247",247,248,"Atlantic 10","Loyola Chicago","6525 N Sheridan Rd, Chicago, IL 60626","Gentile Arena ",4486,"6525 N Sheridan Rd, Chicago, IL 60626",42.0012884,-87.6598870959491
+"248",248,249,"Ivy","Cornell","Newman Arena ","Newman Arena ",4473,"Newman Arena ",42.445678,-76.476169
+"249",249,250,"Sun Belt","Georgia Southern","Hanner Fieldhouse ","Hanner Fieldhouse ",4358,"Hanner Fieldhouse ",32.42785745,-81.7800370644649
+"250",250,251,"MAC","Bowling Green","Stroh Center ","Stroh Center ",4347,"Stroh Center ",41.37534065,-83.6263122290515
+"251",251,252,"Atlantic 10","George Washington","Charles E. Smith Center ","Charles E. Smith Center ",4338,"Charles E. Smith Center ",38.8978142,-77.0493530962943
+"252",252,253,"Ohio Valley","Tennessee Martin","Elam Center ","Elam Center ",4300,"Elam Center ",36.34358865,-88.867982495084
+"253",253,254,"Big South","High Point","Qubein Center ","Qubein Center ",4200,"Qubein Center ",35.9782697,-79.9968780486954
+"254",254,254,"Big Sky","Idaho","Moscow, ID 83843","ICCU Arena ",4200,"Moscow, ID 83843",46.7323875,-117.000165
+"255",255,254,"Big West","Long Beach St.","1250 N Bellflower Blvd, Long Beach, CA 90840","The Walter Pyramid ",4200,"1250 N Bellflower Blvd, Long Beach, CA 90840",33.7874282,-118.114411574186
+"256",256,254,"Southland","McNeese St.","The Legacy Center ","The Legacy Center ",4200,"The Legacy Center ",30.17567,-93.209964
+"257",257,254,"Atlantic 10","Saint Joseph's","Hagan Arena ","Hagan Arena ",4200,"Hagan Arena ",39.9956149,-75.2348619651317
+"258",258,254,"West Coast","San Francisco","2335 Golden Gate Ave, San Francisco, CA 94118","War Memorial at the Sobrato Center ",4200,"2335 Golden Gate Ave, San Francisco, CA 94118",37.777218,-122.449708
+"259",259,260,"West Coast","Loyola Marymount","1 Loyola Marymount University Dr, Los Angeles, CA 90045","Gersten Pavilion ",4156,"1 Loyola Marymount University Dr, Los Angeles, CA 90045",33.967658,-118.415586
+"260",260,261,"Mid-Eastern Athletic","Coppin St.","Physical Education Complex ","Physical Education Complex ",4100,"Physical Education Complex ",39.31441115,-76.656680865462
+"261",261,261,"Colonial","Monmouth","OceanFirst Bank Center ","OceanFirst Bank Center ",4100,"OceanFirst Bank Center ",40.27936265,-74.0076094368717
+"262",262,263,"American","UTSA","Physical Education Building, San Antonio, TX 78249","UTSA Convocation Center ",4080,"Physical Education Building, San Antonio, TX 78249",29.5781,-98.59008
+"263",263,264,"Patriot","Bucknell","Sojka Pavilion ","Sojka Pavilion ",4000,"Sojka Pavilion ",40.9568967,-76.8869428
+"264",264,264,"Big West","Cal St. Fullerton","Titan Gym ","Titan Gym ",4000,"Titan Gym ",33.883121,-117.886101
+"265",265,264,"CUSA","Liberty","Liberty Arena ","Liberty Arena ",4000,"Liberty Arena ",37.3493449,-79.1801902843722
+"266",266,264,"Atlantic Sun","North Alabama","Flowers Hall ","Flowers Hall ",4000,"Flowers Hall ",34.80839485,-87.6838220804887
+"267",267,264,"Horizon","Robert Morris","UPMC Events Center ","UPMC Events Center ",4000,"UPMC Events Center ",40.52026875,-80.2146738637129
+"268",268,264,"Ohio Valley","SIU Edwardsville","First Community Arena ","First Community Arena ",4000,"First Community Arena ",38.793881,-89.998004
+"269",269,264,"Atlantic Sun","Stetson","Edmunds Center ","Edmunds Center ",4000,"Edmunds Center ",29.0395413,-81.3018214079189
+"270",270,264,"Colonial","Stony Brook","Island Federal Credit Union Arena ","Island Federal Credit Union Arena ",4000,"Island Federal Credit Union Arena ",40.91744135,-73.1259796117153
+"271",271,264,"Big West","UC San Diego","9860 Hopkins Dr, La Jolla, CA 92093","LionTree Arena ",4000,"9860 Hopkins Dr, La Jolla, CA 92093",32.715759,-117.163818
+"272",272,264,"Western Athletic","UT Rio Grande Valley","N 5th Ave, Edinburg, TX 78541","UTRGV Fieldhouse ",4000,"N 5th Ave, Edinburg, TX 78541",26.3112225,-98.1674619
+"273",273,274,"Big West","Cal St. Bakersfield","Icardo Center ","Icardo Center ",3880,"Icardo Center ",35.34758475,-119.102598219714
+"274",274,275,"Atlantic Sun","Kennesaw St.","590 Cobb Ave, Kennesaw, GA 30144","KSU Convocation Center ",3805,"590 Cobb Ave, Kennesaw, GA 30144",34.037252,-84.580101
+"275",275,276,"Southland","Nicholls St.","220 NSU, Colonel Dr, Thibodaux, LA 70301","Stopher Gym ",3800,"220 NSU, Colonel Dr, Thibodaux, LA 70301",29.7903,-90.8029
+"276",276,277,"Western Athletic","Abilene Christian","Moody Coliseum ","Moody Coliseum ",3600,"Moody Coliseum ",32.8403971,-96.7806817290028
+"277",277,277,"Sun Belt","Coastal Carolina","HTC Center ","HTC Center ",3600,"HTC Center ",33.79905435,-79.0156007826907
+"278",278,277,"Patriot","Holy Cross","1  College St, Worcester, MA 01610 ","Hart Center ",3600,"1  College St, Worcester, MA 01610 ",42.23668645,-71.8070248370831
+"279",279,277,"Southland","Northwestern St.","Prather Coliseum ","Prather Coliseum ",3600,"Prather Coliseum ",31.74396305,-93.0951189039326
+"280",280,277,"American","Tulane","Fogelman Arena ","Fogelman Arena ",3600,"Fogelman Arena ",29.93906735,-90.1207045970479
+"281",281,282,"Atlantic 10","Duquesne","1304 Forbes Ave, Pittsburgh, PA 15282","UPMC Cooper Fieldhouse ",3500,"1304 Forbes Ave, Pittsburgh, PA 15282",40.4377195949587,-79.9881379720768
+"282",282,282,"Metro Atlantic","Fairfield","Leo D Mahoney Arena, Loyola Drive, Fairfield, CT 06824","Mahoney Arena ",3500,"Leo D Mahoney Arena, Loyola Drive, Fairfield, CT 06824",39.31176,-76.56718
+"283",283,282,"Big South","Gardner Webb","110 Lutz-Yelton Dr, Boiling Springs, NC 28152","Paul Porter Arena ",3500,"110 Lutz-Yelton Dr, Boiling Springs, NC 28152",35.45482,-81.93344
+"284",284,282,"CUSA","Jacksonville St.","Mathews Coliseum ","Mathews Coliseum ",3500,"Mathews Coliseum ",33.8241454,-85.7734926057001
+"285",285,282,"America East","NJIT","Wellness and Events Center ","Wellness and Events Center ",3500,"Wellness and Events Center ",40.74229745,-74.1804097219979
+"286",286,282,"SWAC","Prairie View A&M","Prairie View, TX 77445","William Nicks Building ",3500,"Prairie View, TX 77445",30.0857916,-95.9907058
+"287",287,282,"Northeast","Saint Francis","DeGol Arena ","DeGol Arena ",3500,"DeGol Arena ",40.50466595,-78.6411025330208
+"288",288,282,"West Coast","Saint Mary's","1928 Saint Mary’s Road, Moraga, CA 94575","University Credit Union Pavilion ",3500,"1928 Saint Mary’s Road, Moraga, CA 94575",37.8467635894733,-122.109404571485
+"289",289,290,"Atlantic 10","La Salle","Tom Gola Arena ","Tom Gola Arena ",3400,"Tom Gola Arena ",40.04000285,-75.1565784991679
+"290",290,290,"SoCon","Wofford","Richardson Indoor Stadium ","Richardson Indoor Stadium ",3400,"Richardson Indoor Stadium ",34.9632234,-81.9329384394951
+"291",291,292,"Big Sky","Northern Arizona","Walkup Skydome ","Walkup Skydome ",3300,"Walkup Skydome ",35.18059825,-111.652898950192
+"292",292,293,"America East","Vermont","Patrick Gymnasium ","Patrick Gymnasium ",3266,"Patrick Gymnasium ",44.47008915,-73.1947872488209
+"293",293,294,"Metro Atlantic","Quinnipiac","305 Sherman Ave, Hamden, CT 06518","M&T Bank Arena ",3254,"305 Sherman Ave, Hamden, CT 06518",41.4138728,-72.9118004
+"294",294,295,"Northeast","Central Connecticut","1615 Stanley St, New Britain, CT 06053","Detrick Gymnasium ",3200,"1615 Stanley St, New Britain, CT 06053",41.6902691,-72.7698945
+"295",295,295,"Atlantic 10","Fordham","Rose Hill Gym ","Rose Hill Gym ",3200,"Rose Hill Gym ",40.859341,-73.882706
+"296",296,295,"Metro Atlantic","Marist","McCann Center ","McCann Center ",3200,"McCann Center ",41.71746945,-73.9353343390675
+"297",297,295,"SoCon","Mercer","Hawkins Arena ","Hawkins Arena ",3200,"Hawkins Arena ",32.8289652,-83.651787
+"298",298,295,"Big South","Radford","Dedmon Center ","Dedmon Center ",3200,"Dedmon Center ",37.13845635,-80.5416847632617
+"299",299,295,"Metro Atlantic","Saint Peter's","Yanitelli Center ","Yanitelli Center ",3200,"Yanitelli Center ",40.7277231,-74.0731491249115
+"300",300,295,"Mid-Eastern Athletic","South Carolina St.","200 Buckley St, Orangeburg, SC 29115","Smith Hammond Middleton Center ",3200,"200 Buckley St, Orangeburg, SC 29115",33.499346,-80.846122
+"301",301,295,"Big South","UNC Asheville","Kimmel Arena ","Kimmel Arena ",3200,"Kimmel Arena ",35.6180932,-82.5689033267281
+"302",302,303,"Metro Atlantic","Mount St. Mary's","16251 James Phelan Way, Emmitsburg, Maryland, United States","Knott Arena ",3121,"16251 James Phelan Way, Emmitsburg, Maryland, United States",39.6797,-77.3462
+"303",303,304,"Mid-Eastern Athletic","North Carolina Central","McLendon-McDougald Gymnasium ","McLendon-McDougald Gymnasium ",3116,"McLendon-McDougald Gymnasium ",35.97598025,-78.8977423951006
+"304",304,305,"West Coast","Pepperdine","Firestone Fieldhouse ","Firestone Fieldhouse ",3104,"Firestone Fieldhouse ",34.03854465,-118.709713392201
+"305",305,306,"Colonial","Campbell","56 Main St, Lillington, NC 27546","Pope Convocation Center ",3095,"56 Main St, Lillington, NC 27546",38.408588,-82.370773
+"306",306,307,"Big Sky","Portland St.","Viking Pavilion ","Viking Pavilion ",3094,"Viking Pavilion ",45.510843,-122.686536
+"307",307,308,"Summit","North Dakota","Betty Engelstad Sioux Center ","Betty Engelstad Sioux Center ",3064,"Betty Engelstad Sioux Center ",47.92759445,-97.0732544979229
+"308",308,309,"Big West","Cal Poly","Mott Gymnasium ","Mott Gymnasium ",3032,"Mott Gymnasium ",35.300241,-120.658861
+"309",309,310,"SWAC","Bethune Cookman","Moore Gym ","Moore Gym ",3000,"Moore Gym ",36.07671575,-79.7701549962806
+"310",310,310,"SWAC","Grambling St.","Assembly Center ","Assembly Center ",3000,"Assembly Center ",30.4144753,-91.1844893789833
+"311",311,310,"Ohio Valley","Lindenwood","Hyland Arena ","Hyland Arena ",3000,"Hyland Arena ",38.78916915,-90.5035928964988
+"312",312,310,"Big South","Longwood","Brock Center ","Brock Center ",3000,"Brock Center ",36.9038464,-76.0973611017246
+"313",313,310,"America East","New Hampshire","145 Main St, Durham, NH 03824","Lundholm Gymnasium ",3000,"145 Main St, Durham, NH 03824",43.1500375169331,-70.9628828013914
+"314",314,310,"Horizon","Oakland","569 Pioneer Dr, Rochester, MI, 48309","Athletics Center O'Rena ",3000,"569 Pioneer Dr, Rochester, MI, 48309",42.67393485,-83.2129430903011
+"315",315,310,"Atlantic Sun","Queens","Curry Arena ","Curry Arena ",3000,"Curry Arena ",35.188448,-80.834978
+"316",316,310,"Western Athletic","Tarleton St.","W Vanderbilt St, Stephenville, TX 76401","Wisdom Gymnasium ",3000,"W Vanderbilt St, Stephenville, TX 76401",32.2218371,-98.2087967
+"317",317,318,"Big Sky","Northern Colorado","Butler-Hancock Athletics Center, 270 Alles Dr D, Greeley, CO 80631","Bank of Colorado Arena ",2977,"Butler-Hancock Athletics Center, 270 Alles Dr D, Greeley, CO 80631",40.403113,-104.701531
+"318",318,319,"Patriot","American","Bender Arena ","Bender Arena ",2930,"Bender Arena ",38.93772115,-77.0899137185053
+"319",319,320,"Ivy","Brown","Pizzitola Sports Center, Providence, RI 02906","Pizzitola Sports Center ",2800,"Pizzitola Sports Center, Providence, RI 02906",41.826771,-71.40255
+"320",320,321,"Big West","UC Riverside","SRC Arena ","SRC Arena ",2750,"SRC Arena ",43.006199,-76.1950610836676
+"321",321,322,"Ivy","Columbia","Levien 3030 Broadway, New York, NY 10027Gymnasium ","Levien Gymnasium ",2700,"Levien 3030 Broadway, New York, NY 10027Gymnasium ",40.807537,-73.96257
+"322",322,322,"Mid-Eastern Athletic","Howard","Burr Arena ","Burr Arena ",2700,"Burr Arena ",41.7807503,-87.9275964423726
+"323",323,322,"SWAC","Mississippi Valley St.","Harrison Complex ","Harrison Complex ",2700,"Harrison Complex ",40.82251895,-74.2906751968412
+"324",324,325,"Patriot","Lafayette","Kirby Sports Center ","Kirby Sports Center ",2644,"Kirby Sports Center ",40.70170025,-75.2097929921393
+"325",325,326,"Metro Atlantic","Iona","Hynes A715 North Ave, New Rochelle, NY 10801thletics Center ","Hynes Athletics Center ",2611,"Hynes A715 North Ave, New Rochelle, NY 10801thletics Center ",40.926232,-73.78727
+"326",326,327,"America East","Bryant","1150 Douglas Turnpike, Smithfield, RI 02917","Chace Athletic Center ",2600,"1150 Douglas Turnpike, Smithfield, RI 02917",41.9184668,-71.5365125
+"327",327,328,"Colonial","Drexel","3301 Market St, Philadelphia, PA 19104","Daskalakis Athletic Center ",2532,"3301 Market St, Philadelphia, PA 19104",39.955694,-75.18963
+"328",328,328,"Ivy","Yale","Lee Amphitheater ","Lee Amphitheater ",2532,"Lee Amphitheater ",41.311533,-72.926084
+"329",329,330,"Summit","Denver","Hamilton Gymnasium ","Hamilton Gymnasium ",2500,"Hamilton Gymnasium ",39.6824183,-104.9623912
+"330",330,330,"American","Florida Atlantic","Arena, 777 Glades Rd, Boca Raton, FL 33431","Baldwin Arena ",2500,"Arena, 777 Glades Rd, Boca Raton, FL 33431",30.51902,-87.84665
+"331",331,330,"Metro Atlantic","Manhattan","Draddy Gymnasium ","Draddy Gymnasium ",2500,"Draddy Gymnasium ",40.8907375,-73.9002729795556
+"332",332,333,"Metro Atlantic","Niagara","Gallagher Center ","Gallagher Center ",2400,"Gallagher Center ",43.137111,-79.038072400824
+"333",333,334,"Big South","Presbyterian","5th Ave, Clinton, SC 29325","Templeton P.E. Center ",2300,"5th Ave, Clinton, SC 29325",34.464945,-81.866182
+"334",334,335,"Big West","Cal St. Northridge","Redwood Hall, Northridge, CA 91330","Premier America Credit Union Arena ",2200,"Redwood Hall, Northridge, CA 91330",34.2420106,-118.526236537414
+"335",335,335,"Northeast","Stonehill","Merkert Gymnasium ","Merkert Gymnasium ",2200,"Merkert Gymnasium ",42.0574641,-71.0788528873637
+"336",336,337,"Ivy","Harvard","45 N Harvard Street, Allston,MA, 02134","Lavietes Pavilion ",2195,"45 N Harvard Street, Allston,MA, 02134",42.3666450816327,-71.1254754285714
+"337",337,338,"Metro Atlantic","Canisius","Koessler Athletic Center ","Koessler Athletic Center ",2176,"Koessler Athletic Center ",42.9209664,-78.857513591338
+"338",338,339,"Ivy","Dartmouth","Dartmouth College, Berry Sports Center, 6 S Park St, Hanover, NH 03755","Leede Arena ",2100,"Dartmouth College, Berry Sports Center, 6 S Park St, Hanover, NH 03755",43.641979,-72.253738
+"339",339,339,"Patriot","Loyola MD","4501 N Charles St, Baltimore, MD 21210","Reitz Arena ",2100,"4501 N Charles St, Baltimore, MD 21210",39.3462906,-76.6202369
+"340",340,339,"Northeast","Sacred Heart","Pitt Center ","Pitt Center ",2100,"Pitt Center ",35.5956967,-77.5863078574856
+"341",341,339,"America East","UMass Lowell","Costello Athletic Center ","Costello Athletic Center ",2100,"Costello Athletic Center ",42.65554255,-71.3241430511317
+"342",342,339,"Northeast","Wagner","Spiro Sports Center ","Spiro Sports Center ",2100,"Spiro Sports Center ",40.615,-74.0958333
+"343",343,344,"Mid-Eastern Athletic","Delaware St.","Memorial Hall ","Memorial Hall ",2000,"Memorial Hall ",42.37600735,-71.1151116297103
+"344",344,344,"Northeast","Fairleigh Dickinson","60 E Main St, Bogota, NJ 07603","Bogota Savings Bank Center ",2000,"60 E Main St, Bogota, NJ 07603",40.877171113236,-74.0262127747467
+"345",345,344,"Southland","Incarnate Word","McDermott Convocation Center ","McDermott Convocation Center ",2000,"McDermott Convocation Center ",29.46808,-98.4693468941506
+"346",346,344,"Northeast","Le Moyne","Ted Grant Court ","Ted Grant Court ",2000,"Ted Grant Court ",43.048591,-76.087615
+"347",347,344,"Northeast","LIU","Steinberg Wellness Center ","Steinberg Wellness Center ",2000,"Steinberg Wellness Center ",40.69064385,-73.9792953404964
+"348",348,344,"Southland","Texas A&M Commerce","The Field House ","The Field House ",2000,"The Field House ",33.242663,-95.908171
+"349",349,350,"Patriot","Boston University","285 Babcock St, Boston, MA 02215 ","Case Gym ",1800,"285 Babcock St, Boston, MA 02215 ",42.3527669489796,-71.1211771836735
+"350",350,350,"Summit","St. Thomas","2115 Summit Ave, St Paul, MN 55105","Schoenecker Arena ",1800,"2115 Summit Ave, St Paul, MN 55105",44.9412471666667,-93.189403
+"351",351,352,"Patriot","Colgate","Cotterell Court ","Cotterell Court ",1782,"Cotterell Court ",37.681122,-121.872828
+"352",352,353,"Metro Atlantic","Rider","Alumni Gymnasium ","Alumni Gymnasium ",1650,"Alumni Gymnasium ",40.27886715,-74.7354012692293
+"353",353,354,"Summit","UMKC","Swinney Recreation Center ","Swinney Recreation Center ",1600,"Swinney Recreation Center ",39.03554535,-94.5787562409118
+"354",354,355,"Atlantic Sun","Jacksonville","Swisher Gymnasium, Jacksonville, FL 32211","Historic Swisher Gymnasium ",1500,"Swisher Gymnasium, Jacksonville, FL 32211",30.35025135,-81.6050056220238
+"355",355,356,"Northeast","Merrimack","Hammel Court ","Hammel Court ",1200,"Hammel Court ",34.700418,-82.288569
+"356",356,357,"Big Sky","Sacramento St.","The Nest ","The Nest ",1012,"The Nest ",38.561321,-121.42416
+"357",357,358,"Southland","Houston Christian","7502 Fondren Rd, Houston, TX 77074","Sharp Gym ",1000,"7502 Fondren Rd, Houston, TX 77074",29.6930202,-95.5147976
+"358",358,358,"America East","Maine","Memorial Gym ","Memorial Gym ",1000,"Memorial Gym ",44.903718,-68.66837
+"359",359,360,"Western Athletic","Seattle","Redhawk Center ","Redhawk Center ",999,"Redhawk Center ",47.607286,-122.313485789935
+"360",360,361,"Big South","Charleston Southern","Buccaneer Field House, North Charleston, SC 29406","Buccaneer Field House ",881,"Buccaneer Field House, North Charleston, SC 29406",32.97799,-80.07312
+"361",361,362,"Big South","USC Upstate","Hodge Center ","Hodge Center ",837,"Hodge Center ",34.997867,-81.969386
